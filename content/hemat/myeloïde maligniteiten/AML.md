@@ -199,20 +199,20 @@ bron: [Richtlijn AML, 2021](https://publicatie.hematologienederland.nl/richtlijn
         - cyclusduur van 4 naar 5 weken of meer
         - azacitidine van 75mg/m<sup>2</sup> naar 100 mg fixed dose
         - azacitidine naar 5 dagen
-    - alternatieven:
-        - decitabine 5D/28D
-	        - responsevaluatie na 4-6 kuren, door tot progressie
-        - decitabine 10D/28D
-            - aantal dagen 2e cyclus gestuurd door blasten% beenmerg op D28:
-                - \< 5% door met 5 dagen
-                - \> 4% door met 10 dagen
-	                - max 3 kuren van 10D
-            - responsbeoordeling na 2-4 kuren, door tot progressie.
-        - azacitidine 7D/28D of D1-5 en D8 en D9
-            - responsevaluatie na 4-6 kuren, behandelen tot progressie
-        - cytarabine 10-14D elke 4-6 weken; behandelen tot progressie
-	- ondersteunend met al dan niet hydrea, 6-MP, transfusies of antibiotica
-	- bedenkt: bij langdurige behandeling met hypomethylerende middelen mogelijk cytopenieën: dan dosisreductie/verlengen kuurinterval
+- alternatieven:
+	- decitabine 5D/28D
+		- responsevaluatie na 4-6 kuren, door tot progressie
+	- decitabine 10D/28D
+		- aantal dagen 2e cyclus gestuurd door blasten% beenmerg op D28:
+			- \< 5% door met 5 dagen
+			- \> 4% door met 10 dagen
+				- max 3 kuren van 10D
+		- responsbeoordeling na 2-4 kuren, door tot progressie.
+	- azacitidine 7D/28D of D1-5 en D8 en D9
+		- responsevaluatie na 4-6 kuren, behandelen tot progressie
+	- cytarabine 10-14D elke 4-6 weken; behandelen tot progressie
+- ondersteunend met al dan niet hydrea, 6-MP, transfusies of antibiotica
+- bedenkt: bij langdurige behandeling met hypomethylerende middelen mogelijk cytopenieën: dan dosisreductie/verlengen kuurinterval
 ## Module 5: Consolidatie inclusief HSCT
 ### Slecht risico
 - allogene stamceltransplantatie (allo)
