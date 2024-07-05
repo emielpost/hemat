@@ -127,6 +127,7 @@ ___
 - 6 mogelijke oorzaken:
 	- atherosclerose (meest voorkomend)
 	- embolie (meest voorkomend)
+	- medicatie
 	- systeemziekten
 	- vasculaire/anatomische afwijkingen
 	- trombofilie
