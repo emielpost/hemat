@@ -1,0 +1,102 @@
+Maandag 15 juli,
+- Dhr. G, DM
+	- **tijd in 10:01u, tijd uit** **10:12u**
+	- direct 11, indirect 32
+		- 18-6 reeds gekeurd
+	- check BSN , rijbewijs (groep 2?)
+		- BSN ok, rijbewijs bus
+	- jaartal diagnose? specialist? DVK?
+		- diagnose in 2018-2019, nooit bij internist
+		- DVK iedere 3m
+	- check suikercontroles.. → prikken mogelijk?
+		- lukt
+	- bijlagen:
+		- RR 145/80
+		- bloedsuikers wo t/m wo: 7.6 - 11.7
+			- weet hoe het werkt, heeft POCT meter
+	- kosten: **extra indirecte tijd ja/nee?**
+	- status afspraak: conceptrapportage afgerond?
+	- extra:
+		- jaar geleden bij oogarts (geen afwijkingen)
+			- **GOEDGEKEURD MITS BRIEF VAN OOGARTS 1J GELEDEN**
+	
+- Dhr. van V, CNS (**geen vragenlijst**)
+	- **tijd in 10:17u, tijd uit 10:33u?**
+	- direct 16, indirect 32
+	- check BSN , rijbewijs (groep 1?)
+		- klein rijbewijs
+	- voorgeschiedenis
+		- dr. Klein in Dordrecht
+	- vragenlijst:
+		- onderliggend lijden?
+			- DM2, HT, nefrectomie li
+		- ernst CNS
+			- I, II, III (eGFR > 20)
+			- IV (15-30)
+			- V (< 15)
+				- G5A3
+		- HD of PD?
+			- geen dialyse
+			- hypotensie bij dialyse? (laatste 6m?)
+		- functionele beperking t.g.v. CNS?
+			- welke maximale inspanningen?
+				- WHO PS 0, 1x/3m bij nefroloog
+		- ritmestoornissen of AP? (laatste 6m?)
+			- bekend met AF maar geen onwelwordingen
+		- categorie III geneesmiddelen?
+			- antihistaminica
+			- antidepressiva
+			- benzo's
+			- antipsychotica
+			- anti-epileptica
+			- opioïden
+	- nierfunctie 20%, MDRD?
+	- medicatie?
+		- geen categorie III
+	- overweeg functietest
+	- kosten: **extra indirecte tijd ja/nee?**
+		- donortraject opgestart, dialyseert nog niet
+	- status afspraak: conceptrapportage afgerond?
+	 
+- Dhr. R, DM1
+	- **tijd in 10:36u, tijd uit 10:50u?**
+		- direct 14, indirect 22
+	- check BSN , rijbewijs groep?
+	- jaartal diagnose 1999 (in verleden ernstig auto-ongeluk)
+		- hypo's nachtelijk? TBR 8% (streef 4%)
+		- ernstige hypo's? Weet wat te doen?
+		- oogarts mrt '23: alles ok
+	- kosten: **extra indirecte tijd ja/nee?**
+	- bijlagen?
+	- status afspraak: conceptrapportage afgerond?\
+	
+- Dhr. van P, CNS (**geen vragenlijst**)
+	- **tijd in 10:55u, tijd uit 11:04u?**
+		- direct 9, indirect 32
+	- BSN ok, klein rijbewijs?
+		- eerste keer gekeurd, nu 75j oud 
+	- **vragenlijst?**
+		- vragenlijst:
+			- onderliggend lijden?
+				- ischemische cardiomyopathie
+		- ernst CNS
+			- I, II, III (eGFR > 20)
+			- IV (15-30)
+				- eGFR 15-20
+			- V (< 15)
+		- HD of PD?
+			- geen dialyse
+				- geen hypotensie bij dialyse? (laatste 6m?)
+		- functionele beperking t.g.v. CNS?
+			- welke maximale inspanningen?
+				- trap op, volledig zelfstandig
+		- ritmestoornissen of AP? (laatste 6m?)
+			- bekend met AF maar geen onwelwordingen
+				- geen bekend
+		- categorie III geneesmiddelen?
+			- antihistaminica
+			- antidepressiva
+			- benzo's
+			- antipsychotica
+			- anti-epileptica
+			- opioïden

@@ -147,7 +147,7 @@ ___
 			- indicaties:
 				- stabiel coronairlijden
 				- perifeer vaatlijden na revascularisatie
-					- zie ook [PAD ricthlijn 2024, pagina e1336](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001251) (i.p. aanbevolen maar iets verhoogd risico op bloeding, waarmee beslissing afhankelijk van comorbiditeiten, complexiteit revascularisatie procedure en overall risico op MACE en MALE)
+					- zie ook [PAD ricthlijn 2024, pagina e1336](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001251) (i.p. aanbevolen maar iets verhoogd risico op bloeding, waarmee beslissing afhankelijk van comorbiditeiten, uw complexiteit revascularisatie procedure en overall risico op MACE en MALE)
 				- (waarschijnlijk in de toekomst): ongebruikelijke lokaties waar weinig evidence
 ### embolie
 - uit hart maar ook van elders

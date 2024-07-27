@@ -1,4 +1,4 @@
-Buikvene tormbose omvat verschillende vormen van trombose zoals vena porta trombose, vena mesenterica trombose, splenicus trombose en het Budd-Chiari-syndroom. De behandeling is vaak uitdagend door de variëteit aan geassocieerde aandoeningen en de ernstige gevolgen van inadequate behandeling. Bovendien hebben veel patiënten bij diagnose al actieve bloedingen of risico op bloedingen.
+Buikvene trombose omvat verschillende vormen van trombose zoals vena porta trombose, vena mesenterica trombose, splenicus trombose en het Budd-Chiari-syndroom. De behandeling is vaak uitdagend door de variëteit aan geassocieerde aandoeningen en de ernstige gevolgen van inadequate behandeling. Bovendien hebben veel patiënten bij diagnose al actieve bloedingen of risico op bloedingen.
 ___
 # How I treat splanchnic vein thrombosis, 2014
 **bron**: [How I treat splanchnic vein thrombosis](https://ashpublications.org/blood/article/124/25/3685/33588/How-I-treat-splanchnic-vein-thrombosis)
@@ -82,4 +82,72 @@ ___
 2024-07-01
 ___
 # ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation, 2020
-**bron**: [ACG Clinical Guideline](https://journals.lww.com/ajg/fulltext/2020/01000/acg_clinical_guideline__disorders_of_the_hepatic.9.aspx)
+**bron**: [ACG clinical guideline, 2020](https://journals.lww.com/ajg/fulltext/2020/01000/acg_clinical_guideline__disorders_of_the_hepatic.9.aspx)
+## inleiding
+- weinig evidence
+- overige aandoeningen in richtlijn:
+	- bloedingen
+	- aneurysmata mesenteriaal arterieën
+	- hereditaire hemorrhagische telangieëctasieën
+## trombose vena porta en mesenteriaal vene
+![[Pasted image 20240712062140.png]
+![[Pasted image 20240712062204.png]]
+### beleid
+#### zonder cirrose
+- antistolling
+	- indicatie:
+		- acute PT of VMT bij iedere noncirrhotische patiënt zonder contraindicatie
+			- minimaal 6 maanden indien reversibele oorzaak en geen trombofilie
+			- levenslang indien trombofilie
+		- chronische PT
+			- indien trombofilie
+			- progressie trombus tot in vena mesenterica
+			- darmischemie
+	- keuze middel:
+		- initieel LMWH
+		- onderhoud met LMWH of VKA
+			- weinig ervaring DOAC's, mogelijk absorptie probleem
+				- pleit tegen substantieel effect: 
+					- normale PT of aPTT bij dabigatran
+					- normale PT of aXa activiteit bij apixaban of rivaroxaban
+- betablokkers
+	- voorkeur boven RBL
+- trombofiliescreening indien geen uitlokkende etiologie zoals lokale inflammatie
+#### cirrose
+- antistolling
+	- indicatie (cave trombo's < 50 of hepatische encefalopathie en valrisico):
+		- acute volledige PT, VMT of extensie van PT tot in VMT
+			- 6 maanden behandelen
+			- levenslang indien trombofilie
+			- 'levenslang' indien in afwachting leverTx
+		- chronische PT
+			- indien trombofilie
+			- progressie trombus
+			- voorgeschiedenis darm ischemie
+			- overweeg in afwachting van leverTx
+	- keuze middel:
+		- LMWH, of UFH bij nierinsufficiëntie
+- betablokkers als primaire preventie
+- trombofilie screening
+	- VTE in voorgeschiedenis
+	- ongebruikelijke plek, zoals venae hepatica
+	- positieve familieanamnese
+## Budd-Chiari
+- getrapte benadering:
+	- initieel systemische antistolling
+	- angioplastie of TIPS indien progressief leverfalen
+	- laatste lijn: levertransplantatie
+- 6-maandelijks HCC screening m.b.v. echo en AFP
+- trombofilie screening bij alle patiënten
+## Datum laatste update
+2024-07-12
+___
+# Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the AASLD
+**bron**: [Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases; Hepatology](https://journals.lww.com/hep/Fulltext/2021/01000/Vascular_Liver_Disorders,_Portal_Vein_Thrombosis,.26.aspx) 
+## Inleiding
+## Classificatie
+## Behandeling
+
+## Aliassen
+## Datum laatste update
+2024-07-23
