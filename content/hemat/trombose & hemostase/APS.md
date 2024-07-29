@@ -73,8 +73,6 @@ ___
 	- behandel triggers! (infecties, maligniteiten of gangreen)
 - Refractaire CAPS:
 	- rituximab of complement remmers (e.g. eculizumab)
-## Anki
-nee
 ## Aliassen
 [[antifosfolipiden syndroom]]
 ## Datum laatste update

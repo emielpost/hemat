@@ -1,8 +1,7 @@
 Erfelijke en verworven trombofilie dragen bij aan het risico op veneuze trombo-embolie (VTE). Of testen helpt bij het maken van beleidsbeslissingen is controversieel. Testen kan helpen bij het identificeren van hoogrisicopatiënten die baat hebben bij langdurige antistolling, anderzijds kan routinematige screening leiden tot onnodige behandeling en ongewenste complicaties.
 
-[[#ASH 2023 guidelines for management of venous thromboembolism thrombophilia testing]]
-
-[[#Onverklaarde arteriële trombose, ASH education program, 2021]]
+- [[#ASH 2023 guidelines for management of venous thromboembolism thrombophilia testing]]
+- [[#Onverklaarde arteriële trombose, ASH education program, 2021]]
 ___
 # ASH 2023 guidelines for management of venous thromboembolism: thrombophilia testing
 **bron**: [ASH 2023 guidelines](https://ashpublications.org/bloodadvances/article/7/22/7101/495845/American-Society-of-Hematology-2023-guidelines-for)

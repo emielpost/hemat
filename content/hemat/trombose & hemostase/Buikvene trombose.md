@@ -1,8 +1,8 @@
 Buikvene trombose omvat verschillende vormen van trombose zoals vena porta trombose, vena mesenterica trombose, splenicus trombose en het Budd-Chiari-syndroom. De behandeling is vaak uitdagend door de variëteit aan geassocieerde aandoeningen en de ernstige gevolgen van inadequate behandeling. Bovendien hebben veel patiënten bij diagnose al actieve bloedingen of risico op bloedingen.
 
-[[#How I treat splanchnic vein thrombosis, 2014]]
-[[#ACG Clinical Guideline Disorders of the Hepatic and Mesenteric Circulation, 2020]]
-[[#Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease 2020 Practice Guidance by the AASLD]]
+- [[#How I treat splanchnic vein thrombosis, 2014]]
+- [[#ACG Clinical Guideline Disorders of the Hepatic and Mesenteric Circulation, 2020]]
+- [[#Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease 2020 Practice Guidance by the AASLD]]
 ___
 # How I treat splanchnic vein thrombosis, 2014
 **bron**: [How I treat splanchnic vein thrombosis](https://ashpublications.org/blood/article/124/25/3685/33588/How-I-treat-splanchnic-vein-thrombosis)

@@ -1,6 +1,6 @@
 Deze richtlijn bevat aanbevelingen voor diagnostiek en behandeling van zeldzame stollingsfactor deficiënties, te weten fibrinogeen, protrombine, factor V,  VII, X, XI en XIII. Zie originele richtlijn voor doseringen van concentraat of plasma en verwachte spiegelstijgingen (addendum > pagina 48)
 
-[[#Richtlijn zeldzame stollingsfactor deficiënties]]
+- [[#Richtlijn zeldzame stollingsfactor deficiënties]]
 ___
 # Richtlijn zeldzame stollingsfactor deficiënties
 **bron**: [richtlijn zeldzame stollingsfactor deficiënties, 2023](https://publicatie.hematologienederland.nl/richtlijnen/zeldzame-stollingsfactordeficienties/)

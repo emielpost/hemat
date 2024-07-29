@@ -9,9 +9,8 @@ TMA (thrombotische microangiopathie) is een aandoening waarbij obstructie van de
 - hart: symptomen zoals angina pectoris, myocardinfarct, en hartfalen (decompensatio cordis) kunnen voorkomen
 - tractus digestivus: klachten variërend van buikpijn, bloedingen, pancreatitis tot braken en diarree kunnen zich voordoen
 
-[[#Concept richtlijn TMA, 2024]]
-
-[[#Wenkebach, 2023]]
+- [[#Concept richtlijn TMA, 2024]]
+- [[#Wenkebach, 2023]]
 ___
 # Concept richtlijn TMA, 2024
 **bron:** [[Concept Richtlijn2024 TMA_final R1 DEF 23052024.pdf]]
