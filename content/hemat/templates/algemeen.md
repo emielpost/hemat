@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 inleiding
 ___
 # Richtlijn xxx

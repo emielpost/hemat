@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Maandag 15 juli,
 - Dhr. G, DM
 	- **tijd in 10:01u, tijd uit** **10:12u**

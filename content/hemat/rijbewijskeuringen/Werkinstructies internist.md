@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 ## Samenvatting werkwijze
 - afspraak via website
 	- krijgen info via email

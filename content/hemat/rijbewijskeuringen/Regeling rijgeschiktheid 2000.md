@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 bron: [regeling rijgeschiktheid 2000](https://wetten.overheid.nl/BWBR0011362/2021-07-01)
 ### inleiding
 - van belang:
