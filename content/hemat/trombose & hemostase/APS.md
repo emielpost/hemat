@@ -8,7 +8,7 @@ ___
 - definitie:
 	- 1 klinisch criterium
 	- 1 laboratorium criterium volgens Sapporo criteria
-- primair of secudnair aan SLE
+- primair of secundair aan SLE
 - zelden CAPS
 - risico op trombose en obstetrische events afhankelijk van 'aPL profiel'
 	- aantal positieve AS'en, hoogte titer

@@ -1,4 +1,6 @@
 VTE kan meestal veilig behandeld worden met therapeutische antistolling maar 'inferior vena cava filters' (IVCF's) vormen een belangrijk alternatief voor een kleine groep patiënten. Het gebruik van IVCF's is toegenomen met de introductie van retrievable filters. Patiënten met acute VTE en absolute contra-indicaties voor antistolling of ernstige complicaties door antistolling komen in het algemeen in aanmerking voor IVCF's. Het gebruik van IVCF's voor primaire VTE-profylaxe bij risicopatiënten wordt niet ondersteund door de huidige literatuur.
+
+[[#Richtlijn vena cava filter, society of interventional radiology, 2020]]
 ___
 # Richtlijn vena cava filter, society of interventional radiology, 2020
 **bron**: [Society of Interventional Radiology Clinical Practice Guideline for Inferior Vena Cava Filters in the Treatment of Patients with Venous Thrombolic Disease](https://www.jvir.org/action/showPdf?pii=S1051-0443%2820%2930531-5)

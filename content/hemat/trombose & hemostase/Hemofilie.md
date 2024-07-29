@@ -1,4 +1,8 @@
 Hemofilie is een bloedstollingsstoornis die meestal wordt overgeërfd via geslachtsgebonden overerving. Ongeveer 90% van de gevallen betreft hemofilie A, terwijl hemofilie B ongeveer 10% van de gevallen uitmaakt. De ernst van hemofilie wordt vaak ingedeeld op basis van de mate van stollingsfactordeficiëntie in het bloed: mild (>5 IE/dL), matig-ernstig (1-5 IE/dL), en ernstig (<1 IE/dL). Een belangrijke complicatie van behandeling met stollingsfactor-suppletie is de ontwikkeling van remmers.
+
+[[#Richtlijn diagnostiek en behandeling van hemofilie, 2020]]
+[[#Hemostase update, 2023]]
+[[#Hemostase update, nieuwe behandelingen, 2023]]
 ___
 # Richtlijn diagnostiek en behandeling van hemofilie, 2020
 ## Diagnostiek

@@ -1,4 +1,7 @@
 Verworven hemofilie is een zeldzame maar ernstige bloedaandoening die wordt veroorzaakt door de ontwikkeling van auto-antilichamen tegen een van de stollingsfactoren, meestal factor VIII (FVIII). Het is essentieel dat de diagnose snel wordt gesteld om de hoge morbiditeit en mortaliteit die met deze aandoening gepaard gaan, te voorkomen. Verworven von Willebrand ziekte wordt gekenmerkt door structurele of functionele defecten van de von Willebrand-factor (VWF) die secundair zijn aan auto-immuun-, lymfoproliferatieve of myeloproliferatieve aandoeningen, kwaadaardige aandoeningen, hart- en vaatziekten, of andere stoornissen.
+
+[[#Verworven hemofilie (A)]]
+[[#Verworven VWD]]
 ____
 # Verworven [[hemofilie]] (A)
 **bron**: Hemostase update, 2023
