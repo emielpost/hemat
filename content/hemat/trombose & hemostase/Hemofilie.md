@@ -160,9 +160,6 @@ ___
 	- FVIII > 50 IE/dL rondom de partus
 		- 3 dagen na vaginale partus
 		- 5 dagen na sectio
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 25-02-2024
 ___
@@ -199,8 +196,5 @@ ___
 			- verlies van expressie bij hemofilie A (onduidelijk waarom)
 			- lange termijn leverschade/integratie events
 			- (resistentie: 2e keer niet mogelijk of bij reeds contact met adenovirus)
-## Anki
-nee
-## Aliassen
 ## Datum laatste update
 25-02-2024

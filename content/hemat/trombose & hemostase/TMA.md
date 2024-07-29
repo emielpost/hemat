@@ -10,6 +10,7 @@ TMA (thrombotische microangiopathie) is een aandoening waarbij obstructie van de
 - tractus digestivus: klachten variërend van buikpijn, bloedingen, pancreatitis tot braken en diarree kunnen zich voordoen
 
 [[#Concept richtlijn TMA, 2024]]
+
 [[#Wenkebach, 2023]]
 ___
 # Concept richtlijn TMA, 2024

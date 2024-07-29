@@ -1,6 +1,7 @@
 De ziekte van Von Willebrand (VWD) is de meest voorkomende erfelijke bloedingsziekte, met een prevalentie van 1 op 100 in populatiestudies en 1 op 10.000 in gespecialiseerde centra. VWD wordt gekenmerkt door een tekort aan werkzame von Willebrand factor (VWF), die bloedplaatjes helpt hechten en stollingsfactor VIII transporteert. Symptomen zijn onder andere bloedingen in huid, slijmvliezen, en na trauma of operaties. Ernstigere vormen kunnen leiden tot bloedingen in spieren en gewrichten.
 
 [[#Richtlijn ziekte van Von Willebrand, 2023 (concept)]]
+
 [[#Hemostase update 2023]]
 ___
 # Richtlijn ziekte van Von Willebrand, 2023 (concept)
