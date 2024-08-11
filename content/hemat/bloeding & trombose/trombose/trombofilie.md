@@ -1,7 +1,56 @@
 Erfelijke en verworven trombofilie dragen bij aan het risico op veneuze trombo-embolie (VTE). Of testen helpt bij het maken van beleidsbeslissingen is controversieel. Testen kan helpen bij het identificeren van hoogrisicopatiënten die baat hebben bij langdurige antistolling, anderzijds kan routinematige screening leiden tot onnodige behandeling en ongewenste complicaties.
 
+- [[#UpToDate evaluating patients with estabished VTE for acquired and inherited risk factors, aug 2023]]
 - [[#ASH 2023 guidelines for management of venous thromboembolism thrombophilia testing]]
-- [[#Onverklaarde arteriële trombose, ASH education program, 2021]]
+- [[#onverklaarde arteriële trombose, ASH education program, 2021]]
+___
+# UpToDate: evaluating patients with estabished VTE for acquired and inherited risk factors, aug 2023
+**bron**: https://www.uptodate.com/contents/evaluating-adult-patients-with-established-venous-thromboembolism-for-acquired-and-inherited-risk-factors
+## @ risk for hypercoagulable disorders
+- positieve familie anamnese:
+	- VTE en 1e graads familie lid met gedocumenteerd VTE <45 jaar:
+		- één van de vijf overerfbare trombofilieën:
+			- proteine C
+			- proteine S
+			- antitrombine
+			- FVL
+			- protrombine gen mutatie
+			- (APS NIET, want niet overerfbaar)
+- negatieve familie anamnese:
+	- check voor 5 overerfbare aandoeningen en APS als:
+		- VTE < 45j
+		- recurrente VTE's
+		- ongebruikelijke plekken
+		- indien hepatisch of vena portae: check ook JAK2 en PNH
+		- warfarine-geinduceerde huidnecrose? check proteine C deficiëntie
+		- arteriële trombose: APS
+- PAS OP voor interferentie:
+	- acute trombose doet proteine S en antitrombine spiegels dalen
+		- dus hoge spiegels: voldoende uitgesloten, anders over enkele maanden herhalen
+	- warfarine: prot S en prot C activiteit daalt
+	- dabigatran: overschatting antitrombine, proteine S en -C spiegels
+	- FXa inhibitoren: overschatting antitrombine spiegels
+## testen voor overerfbare trombofilie en APS
+- gangbaar:
+	- FVL
+		- DNA testen of APC resistentie test (laag = positief)
+	- protrombine deficiëntie
+		- protrombine 20210A gen mutatie
+	- proteine C en S
+		- functionele assay proteïne C: kwantitatief en kwalitatief
+		- proteïne S: antigeen bepalen
+	- antitrombine
+		- antitrombine-heparine (AT) cofactor assay (alle types gedecteerd)
+	- APS
+		- aPTT kan verlengd zijn
+	- check anti-cardiolipine, beta2-gylcoproteine I antilichamen en LAC
+		- bij diagnose en na 3 maanden:
+			- 2x positieve LAC óf +++ hoge B2GP of ACL antistoffen is diagnostisch
+- minder gebruikelijk:
+	- JAK2: abdominaal
+	- PNH
+	- homocysteine en mutaties: NIET doen; vaak verhoogd zonder duidelijke causaliteit.
+		- bovendien: vitamine B12, FZ en pyridoxine doet VTE-rate niet afnemen
 ___
 # ASH 2023 guidelines for management of venous thromboembolism: thrombophilia testing
 **bron**: [ASH 2023 guidelines](https://ashpublications.org/bloodadvances/article/7/22/7101/495845/American-Society-of-Hematology-2023-guidelines-for)
@@ -114,10 +163,10 @@ ___
 			2. heterozygoot FVL + PGM of antitrombine deficiëntie: **test** voor bekende afwijking en **postpartum** **profylaxe** indien aangedaan (tot 6w nadien)
 			3. proteïne C- of proteïne S deficiëntie: geen voorkeur voor **testen** of **niet testen** (pas op, staat correct in de tekst maar verkeerd in tabel 1)
 23. ambulante patiënt met maligniteit en laag- of intermediair risico op VTE met positieve (in dit geval 1e graads) familie anamnese voor VTE: **panel test** voor hereditaire trombofilie en **profylaxe** indien aangedaan.
-## Datum laatste update
+## datum laatste update
 09-06-2024
 ___
-# Onverklaarde arteriële trombose, ASH education program, 2021
+# onverklaarde arteriële trombose, ASH education program, 2021
 **bron**: [Unexplained arterial thrombosis: approach to diagnosis and treatment](https://ashpublications.org/hematology/article/2021/1/76/482964/Unexplained-arterial-thrombosis-approach-to)
 
 ![[Pasted image 20240630143606.png]]
@@ -214,5 +263,5 @@ ___
 					- INR onbetrouwbaar door LAC
 		- antistolling + TAR (voorkeur auteurs)
 				- o.b.v. kleine RCT: VKA + aspirine lager recidief risico, zelfde bloedingsrisico
-## Datum laatste update
+## datum laatste update
 2024-06-30

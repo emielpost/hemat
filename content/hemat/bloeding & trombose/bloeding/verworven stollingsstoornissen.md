@@ -1,9 +1,9 @@
 Verworven hemofilie is een zeldzame maar ernstige bloedaandoening die wordt veroorzaakt door de ontwikkeling van auto-antilichamen tegen een van de stollingsfactoren, meestal factor VIII (FVIII). Het is essentieel dat de diagnose snel wordt gesteld om de hoge morbiditeit en mortaliteit die met deze aandoening gepaard gaan, te voorkomen. Verworven von Willebrand ziekte wordt gekenmerkt door structurele of functionele defecten van de von Willebrand-factor (VWF) die secundair zijn aan auto-immuun-, lymfoproliferatieve of myeloproliferatieve aandoeningen, kwaadaardige aandoeningen, hart- en vaatziekten, of andere stoornissen.
 
-- [[#Verworven hemofilie (A)]]
-- [[#Verworven VWD]]
+- [[#verworven hemofilie (A)]]
+- [[#verworven VWD]]
 ____
-# Verworven [[hemofilie]] (A)
+# verworven [[hemofilie]] (A)
 **bron**: Hemostase update, 2023
 ## etiologie:
 - 50% idiopathisch
@@ -13,7 +13,7 @@ ____
 	- ander type bloedingen dan congenitale hemofilie A
 	- correlatie tussen FVIII en bloedingsneiging in deze context beperkt
 	- \> 65 jaar: mortaliteit > 20%
-	- heel zelden trombolisch event: herstart pre-existent antistolling/ascal
+	- heel zelden trombotisch event: herstart pre-existent antistolling/ascal
 ## diagnostiek
 - laat mengproef lang genoeg instaan: bij deficiëntie MOET aPTT normaliseren
 ## behandeling
@@ -23,7 +23,7 @@ ____
 - FEIBA (APCC) 50-100 U/kg elke 8-12 uur
 - rFVIIa 90 mcg/kg elke 2-3u
 - denk aan TXA lokaal of systemisch
-- (recombinant varkens FVIII)
+- (recombinant FVIII)
 - (emicizumab?)
 ### remmer behandelen:
 - lage remmertiter (BU < 20) en FVIII > 0.01 of oudere/kwetsbare patient met hoog risico op infecties:
@@ -33,7 +33,7 @@ ____
 - tweede lijn bij onvoldoende respons of relaps: 
 	- rituximab 375 mg/m<sup>2</sup> vier giften
 ___
-# Verworven [[VWD]]
+# verworven [[VWD]]
 **bron**: [Blood 2011, Tiede et al.](https://ashpublications.org/blood/article/117/25/6777/24352/How-I-treat-the-acquired-von-Willebrand-syndrome)
 **bron**: Hemostase update, 2023
 ## etiologie x5
@@ -46,12 +46,20 @@ ___
 - toename degradatie VW multimeren: b.v. APL of MPN
 - verworven antistoffen tegen VW: CLL of MGUS
 - binding VW multimeren aan tumor of bepaalde cellen: bij HES b.v.
+- meest voorkomende
+	- lymfoproliferatief (50%)
+	- cardiovasculair (20%)
+	- myeloproliferatief (15%)
+	- overige neoplasieën (5%)
+	- autoimmuun (2%)
+	- overig (1%)
+		- hypothyreoidie, uremie of idiopathisch
 ## diagnostiek
-- multimeren patroon: ontbreekt dan
-	- feitelijk type 2 von Willebrand
+- standaard workup, incl. multimeren patroon
 ## behandeling verworven [[VWD]]
+- zie tabel 2
 - hardnekkig
-- doe proefbehandeling:
+- doe proefbehandeling, mede i.f.v. onderliggende aandoening:
 	- DDAVP, **IVIG**, **Haemate P**, rFVIIa, plasmaferese of combinatie
-## Datum laatste update
+## datum laatste update
 04-06-2024

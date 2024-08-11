@@ -1,10 +1,10 @@
-Buikvene trombose omvat verschillende vormen van trombose zoals vena porta trombose, vena mesenterica trombose, splenicus trombose en het Budd-Chiari-syndroom. De behandeling is vaak uitdagend door de variëteit aan geassocieerde aandoeningen en de ernstige gevolgen van inadequate behandeling. Bovendien hebben veel patiënten bij diagnose al actieve bloedingen of risico op bloedingen.
+Buikvene trombose omvat verschillende vormen van trombose zoals vena porta trombose, vena mesenterica trombose, splenicus trombose en het Budd-Chiari-syndroom. De behandeling is vaak uitdagend door de variëteit aan geassocieerde aandoeningen en de gevolgen van inadequate behandeling. Bovendien hebben veel patiënten bij diagnose al actieve bloedingen of een verhoogd risico op bloedingen.
 
-- [[#How I treat splanchnic vein thrombosis, 2014]]
-- [[#ACG Clinical Guideline Disorders of the Hepatic and Mesenteric Circulation, 2020]]
-- [[#Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease 2020 Practice Guidance by the AASLD]]
+- [[#how I treat splanchnic vein thrombosis, 2014]]
+- [[#ACG clinical guideline: disorders of the hepatic and mesenteric circulation, 2020]]
+- [[#AASLD guidelines vascular liver disorders, 2020]]
 ___
-# How I treat splanchnic vein thrombosis, 2014
+# how I treat splanchnic vein thrombosis, 2014
 **bron**: [How I treat splanchnic vein thrombosis](https://ashpublications.org/blood/article/124/25/3685/33588/How-I-treat-splanchnic-vein-thrombosis)
 ## risicofactoren
 - klassiek indeling: 
@@ -85,7 +85,7 @@ ___
 ## Datum laatste update
 2024-07-01
 ___
-# ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation, 2020
+# ACG clinical guideline: disorders of the hepatic and mesenteric circulation, 2020
 **bron**: [ACG clinical guideline, 2020](https://journals.lww.com/ajg/fulltext/2020/01000/acg_clinical_guideline__disorders_of_the_hepatic.9.aspx)
 ## inleiding
 - weinig evidence
@@ -136,17 +136,17 @@ ___
 	- VTE in voorgeschiedenis
 	- ongebruikelijke plek, zoals venae hepatica
 	- positieve familieanamnese
-## Budd-Chiari
+## budd-chiari
 - getrapte benadering:
 	- initieel systemische antistolling
 	- angioplastie of TIPS indien progressief leverfalen
 	- laatste lijn: levertransplantatie
 - 6-maandelijks HCC screening m.b.v. echo en AFP
 - trombofilie screening bij alle patiënten
-## Datum laatste update
+## datum laatste update
 2024-07-12
 ___
-# Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the AASLD
+# AASLD guidelines vascular liver disorders, 2020
 **bron**: [Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases; Hepatology](https://journals.lww.com/hep/Fulltext/2021/01000/Vascular_Liver_Disorders,_Portal_Vein_Thrombosis,.26.aspx) 
 ## inleiding
 - multipele stollingsdefecten, o.a. door trombocytopenie door splenomegalie met sequestratie en verminderde TPO productie
@@ -256,7 +256,7 @@ ___
 	- DOAC's veel gebruikt
 		- pas op bij ernstige PHT; weinig ervaring
 - bloedingscomplicaties in cirrose conform algemene populatie
-## Budd-Chiari syndroom (HVT-BCS)
+## budd-chiari syndroom (HVT-BCS)
 - obstructie hepatisch outflow van kleine hepatische vv tot instroom VCI in RA
 	- vaak trombus of 'vasculair web', soms obstructie VCI door hypertrofie lobus caudatus
 - circa 75% protrombotische aandoening
@@ -301,5 +301,5 @@ ___
 - levertransplantatie
 	- laatste lijns, of juist 1e lijns bij fulminant ALF
 		- overweeg TIPS als salvage ter overbrugging
-## Datum laatste update
+## datum laatste update
 2024-07-23

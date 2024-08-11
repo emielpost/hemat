@@ -1,8 +1,7 @@
 ---
 draft: "true"
 ---
-
-## Samenvatting werkwijze
+## samenvatting werkwijze
 - afspraak via website
 	- krijgen info via email
 - info in Brightplan (EPD)
@@ -15,6 +14,14 @@ draft: "true"
 		- opslaan in concept
 			- na betaling betrokkene inzage en correctierecht
 				- na 3 dagen naar CBR
+### samenvatting afspraakstatussen
+- afspraak-/conceptrapportage afgerond 
+	- → mail betaallink verzonden
+- afspraak-/conceptrapportage niet afgerond: behandelinformatie opgevraagd (binnen 10 werkdagen)
+	- → afspraak-/conceptrapportage afgerond 
+- afspraak-/conceptrapportage niet afgerond: overige reden (binnen 3 dagen)
+	- → afspraak-/conceptrapportage afgerond 
+	- → afspraak-/conceptrapportage niet afgerond (?)
 ### mailcontact over dossiers en betrokkenen
 - via Brightplan
 	- **termijn < 4 dagen**, anders niet in dashboard

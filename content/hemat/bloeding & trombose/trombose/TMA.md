@@ -9,12 +9,12 @@ TMA (thrombotische microangiopathie) is een aandoening waarbij obstructie van de
 - hart: symptomen zoals angina pectoris, myocardinfarct, en hartfalen (decompensatio cordis) kunnen voorkomen
 - tractus digestivus: klachten variërend van buikpijn, bloedingen, pancreatitis tot braken en diarree kunnen zich voordoen
 
-- [[#Concept richtlijn TMA, 2024]]
-- [[#Wenkebach, 2023]]
+- [[#concept richtlijn TMA, 2024]]
+- [[#wenkebach, 2023]]
 ___
-# Concept richtlijn TMA, 2024
+# concept richtlijn TMA, 2024
 **bron:** [[Concept Richtlijn2024 TMA_final R1 DEF 23052024.pdf]]
-## Oorzaken
+## oorzaken
 - 4x: TTP, STEC-HUS, secundaire TMA of aHUS:  
 #### TTP
 - lage ADAMTS13-activiteit +/- remmer (genetisch kan)
@@ -50,7 +50,7 @@ ___
 #### aHUS
 - dysregulatie alternatieve route complementsysteem
 	- genetische mutaties, verworven mutaties, antistoffen (i.e. tegen complement factor H)
-## Diagnostiek
+## diagnostiek
 - o.a. Coombs (let op: kan positief zijn bij S. pneumoniae - HUS), fragmentocyten, hapto, stollingslab ter uitsluiting DIC, lipase, ECG, C3, C4 en C3d
 - op indicatie: HIV, hep A/B/C, parvovirus, CMV (reactivatie door plasmawisseling)
 - op indicatie: ANA, ENA en anti-DSNA, LAC, anticardiolipine, anti-beta2-glycoproteine
@@ -68,7 +68,7 @@ ___
 		- kan bij b.v. ernstige infecties, zoals malaria, tijdelijk ook zeer laag zijn.
 		- anti-ADAMTS13 negatief zonder alternatieve verklaring? mutatie-analyse ADAMTS13 via Sanquin of Radboudumc voor congenitale vorm
 ![[Pasted image 20240616200034.png]]
-## Behandeling
+## behandeling
 - na afname ADAMTS13-activiteit z.s.m. plasmaferese (bij TTP, aHUS, maar ook TMA in zwangerschap)
 	- centrifugetechniek (plasmaferese; hematoloog) of filtratietechniek (plasmafiltratie; nefroloog)
 		- + prednison en anti-histaminica ter voorkoming allergische reactie
@@ -106,7 +106,7 @@ ___
 	- indien geen verbetering na 4 wisselingen: overweeg eculizumab.
 		- bij behandeling eculizumab: vaccinatie meningococcen! Altijd z.s.m. evalueren bij hoofdpijn/koorts/meningitis klachten.
 	- agressieve bloeddrukdaling tot < 130/80 mmHg
-## Behandeling TTP
+## behandeling TTP
 - responsdefinities, zie tabel op p25: hCR, iCR, HR, IR, hematologisch recidief, immunologisch recidief, geen respons, progressieve ziekte, complete remissie.
 ![[Pasted image 20240616210115.png|650]]
 
@@ -165,7 +165,7 @@ ___
 		- cicosporine A
 		- vincristine
 		- alternatief: splenectomie
-### Recidief TTP
+### recidief TTP
 - mild (geen CNS/cardiale ss en trombo's > 80):
 	- prednisolon 2-3w, nadien afbouwen
 	- dagelijks 2-3 EH plasma infusie
@@ -181,7 +181,7 @@ ___
 		- 2x per week ADAMTS13 activiteit
 - 2e recidief of meer?
 	- bovenstaande overwegingen +/- splenectomie (keuze i.f.v. eerdere behandelingen en respons; overleg met TTP werkgroep)
-## Poliklinisch beleid en follow-up
+## poliklinisch beleid en follow-up
 - ADAMTS13 6 weken na laatste dosis capla, nadien na 3, 6 en 9 maanden, aansluitend 1x per jaar
 	- indien < 10%, of < 20% en dalende trend, én geen rituximab in initiële behandeling
 		- 4 wekelijkse giften rituximab
@@ -191,11 +191,11 @@ ___
 		- cicosporine A
 		- vincristine
 - aandacht voor chronische vermoeidheid, depressie, verlaagde vitaliteit etc.: levenslange controle
-### Anticonceptie na TTP
+### anticonceptie na TTP
 - na aanval anticonceptie t.v.v. recidief TTP
 - geen oestrogeenhoudende middelen:
 	- IUD met progestageen, 3 maanden s.c. progesteron injecties, implantaten met progestageen, orale progestagenen
-### Mogelijkheden zwangerschap na doorgemaakte TTP
+### mogelijkheden zwangerschap na doorgemaakte TTP
 - begeleiding in gespecialiseerde centra
 - complicaties moeder en kind:
 	- recidief in 2e trimester sterk verhoogd risico foetale dood (placente onvoldoende ontwikkeld)
@@ -205,7 +205,7 @@ ___
 		- pre-emptief rituximab overwegen: liefst conceptie uitstellen tot minimaal 6m na laatste gift
 		- tijdens zwangerschap < 10% of sterk dalende activiteit
 			- prednison +/- plasma-infusie ter sparing rituximab
-### Beleid bij zwangerschap en partus na doorgemaakte TTP
+### beleid bij zwangerschap en partus na doorgemaakte TTP
 - monitoring tijdens zwangerschap: zie pagina 34, o.a. 4-8 wekelijks ADAMTS13
 #### partus en neonatale controle
 - placentaire passage IgG antistoffen theoretisch mogelijk:
@@ -215,16 +215,16 @@ ___
 			- bij kunstverlossen forceps > vacuumextractie
 		- postpartum eenmalig lab controle neonaat
 			- bij trombopenie ADAMTS13
-## Behandeling congenitale vorm van TTP
+## behandeling congenitale vorm van TTP
 - lage of afwezige ADAMTS13 activiteit zonder antistoffen: homozygote of heterozygote ADAMTS13 genmutatie
 	- 2-3 wekelijks plasmainfusie (wisseling bij volume overbelasting of hyperbilirubinemie)
 		- doel normalisatie trombo's
 	- bij zwangerschap intensificatie naar wekelijkse infusies > 20 weken tot 6 weken postpartum
 		- 36-37 weken
-## Datum laatste update
+## datum laatste update
 22-06-2024
 ____
-# Wenkebach, 2023
+# wenkebach, 2023
 **bron**: cursus Wenkebach 2023
 ## bloed
 - schistocyten (fragmentocyten), poikylocytose
@@ -233,6 +233,6 @@ ____
 ## beenmerg
 - aspecifiek, compensatoire hyperplasie vooral erytro- en megakaryopoïese
 - ijzerkleuring: ijzergebrek
-## Datum laatste update
+## datum laatste update
 21-02-2024
 

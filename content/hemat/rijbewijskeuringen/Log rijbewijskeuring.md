@@ -1,6 +1,339 @@
 ---
 draft: "true"
+date created: zaterdag 3 augustus 2024 11:08
+date modified: dinsdag 6 augustus 2024 11:08
 ---
+Dinsdag 6 augustus,
+- Dhr. Bender, ziekte: DM2
+	- **tijd in 09:34, tijd uit** 09:46u
+	- BSN: 095007970
+	- direct , indirect **32**
+	- check BSN , rijbewijs groep 2
+	- vorige keuring
+		- 3 jaar geleden in Ede
+	- jaartal diagnose? specialist? DVK?
+		- 2004
+	- prikken mogelijk?
+		- ja
+	- hypo awareness?
+		- **nee?**
+	- laatste oogcontrole
+		- enkele maanden geleden, Radboud ziekenhuis
+	- middelen
+		- metformine, gliclazide
+	- extra
+		- PO 1x/3m
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+
+- Dhr. Gielis, ziekte: DM2
+	- **tijd in 09:52, tijd uit** 10:04
+	- BSN: ok
+	- direct , indirect 22/32
+	- vorige keuring
+		- 2019
+	- jaartal diagnose?
+		- 2004
+	- onder controle bij PO
+		- a 6m
+	- weet u wat een hypo is?
+		- ja
+	- hypo awareness?
+		- ja
+	- zelftesten?
+		- nee!
+	- laatste oogcontrole
+		- vorige week, alles goed
+		- huisarts 
+	- middelen
+		- metformine, glimepiride, sitagliptine
+	- extra
+		- 24 april 2023: geen retinopathie
+		- DVK 1x/jaar?
+		- HbA1c?
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+
+- Dhr. Versantvoort → **geen vragenlijst!**
+	- **tijd in 10:10, tijd uit** **10:22**
+	- BSN: ok
+	- direct , indirect 22/32
+	- check BSN ok, rijbewijs groep 2
+	- vorige keuring
+		- 2019
+	- jaartal diagnose? specialist? DVK?
+		- 2015
+		- 1x/3 maanden bij PO
+	- prikken mogelijk?
+	- weet u wat een hypo is?
+		- ja
+	- hypo awareness?
+		- ja 
+	- zelftesten?
+		- ja
+	- laatste oogcontrole
+		- 2w geleden, helemaal goed
+	- middelen
+		- metformine, gliclazide, empaglifozine
+	- extra
+		- DVK 1x/jaar?
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+
+- Dhr. Antes, **CNS**
+	- tijd in 10:23, tijd uit 10:33
+	- BSN: ok
+	- direct 10, indirect 22
+	- check BSN ok, rijbewijs groep 2
+	- vorige keuring
+		- 3 jaar geleden
+	- nierfunctie in MDRD?
+		- eGFR 14
+	- beperking in uw functioneren?
+		- nee
+	- dialyse nee
+		- nee
+	- algemene conditie
+		- maximale inspanningen? 12u per dag lopen
+	- hartritmestoornis laatste 6m? nee
+	- pijn op de borst laatste 6m? nee
+		- ernstige hypotensie bij dialyse laatste 6m?
+			- nee
+	- extra
+		- brief nefroloog gelukt
+	- goedkeuring:
+		- max 3 jaar
+		- overweeg **rijgeschiktheidstest
+
+- Dhr. van Oorschot
+	- **tijd in 10:42u, tijd uit** 10:46u
+	- BSN: ok, DM1, 3j geldig 
+	- direct , indirect 22/32
+	- check BSN ok, rijbewijs groep 2
+	- vorige keuring
+		- 3j
+	- jaartal diagnose?
+		- 2000
+	- onder controle bij PO, DVK en/of specialist?
+		- internist 2x/jaar
+	- middelen
+		- metformine, novorapid, toujeo
+	- weet u wat een hypo is?
+		- ja
+	- zelfcontrole?
+		- freestyle libre
+	- hypo awareness?
+		- ja
+	- wat bij hypo?
+		- dextro, boterhammen
+	- laatste oogcontrole
+		- laatste oogcontrole 2.5j geleden, staat gepland voor aankomende donderdag
+	- extra
+		- oogarts aankomende donderdag
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+
+- Dhr. van Rijn, DM2
+	- **tijd in 10:53, tijd uit** **11:02**
+	- BSN: 180514581, DM2, 3j geldig 
+	- direct , indirect 22
+	- check BSN ok, rijbewijs groep 2
+	- vorige keuring
+		- 3j voor het laatst
+	- jaartal diagnose?
+		- rond 2003/2004
+	- ernstige complicaties?
+		- nee
+	- onder controle bij PO, DVK en/of specialist?
+		- ja
+	- middelen
+		- insulatard, novorapid, metformine, dapagliflozine 
+	- weet u wat een hypo is?
+		- ja
+	- zelfcontrole?
+		- ja, freestyle
+	- hypo awareness?
+		- ja
+	- wat bij hypo?
+		- suiker nemen
+	- laatste ernstige hypo
+		- nog nooit
+	- laatste oogcontrole
+		- 6w geleden in context van staaroperatie, in Weerd in het ziekenhuis
+			- via huisarts
+	- laatste suikers
+		- 0% < 3.9
+	- extra
+		- via huisarts
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+			- laatste rapport circa 6w geleden
+
+- **Dhr. de Jong, DM2 (perfecte vragenlijst)**
+	- **tijd in 11:05 , tijd uit** 11:14
+	- BSN: ok, DM2
+	- direct 9, indirect 22
+	- check BSN ok, rijbewijs groep 2
+	- welk rijbewijs?
+	- vorige keuring?
+		- 2021
+	- jaartal diagnose?
+		- 2006
+	- welke medicatie (alle, ook niet-diabetes medicatie)?
+		- metformine, lantus, ozempic
+	- onder controle bij praktijkondersteuner, diabetesverpleegkundige en/of internist?
+		- DVK en internist 4x/jaar
+	- ernstige diabetische complicaties?
+		- nee
+	- weet wat een hypo is?
+		- ja
+	- wat te doen bij hypo?
+		- ja
+	- hypo awareness?
+		- ja
+	- in staat tot zelfcontrole?
+		- ja
+	- laatste oogcontrole + verslag
+		- juni '24
+			- verslag in brief internist
+	- laatste suikers
+		- 0% < 3.9
+	- goedkeuring:
+		- max 3 jaar
+		- ten minste a 5 jaar rapport oogarts
+			- in 2023 proliferatieve retinopathie, inmiddels verbeterd
+
+Vrijdag 2 augustus,
+- Dhr. Jahr, ziekte DM2
+	- **tijd in 09:40, tijd uit** 09:48
+	- BSN: 099444574
+	- direct 22, indirect 22
+	- check BSN ok, rijbewijs groep 2
+	- vorige keuring
+		- juni 2021, 3j ok
+	- jaartal diagnose? specialist? DVK?
+		- 2006, ja, om de 3m maanden bij DVK
+	- prikken mogelijk?
+	- laatste oogcontrole
+		- jaarlijks oogcontrole, eerstvolgende keer in september
+			- geen afwijkingen vorig jaar
+	- middelen
+		- metformine, lantus (15EH)
+	- extra
+		- DVK 1x/jaar?
+		- RR 135/70 thuis
+		- HbA1c 54
+	- goedkeuring:
+		- max 3 jaar
+		- rapport internist
+		- **ten minste a 5 jaar rapport oogarts**
+- 
+- Dhr. Aantjes, DM2
+	- **tijd in 09:52, tijd uit** 10:00u
+	- direct , indirect 22/32
+	- check BSN 176227246, rijbewijs (groep 2); vrachtwagen (kleiner)
+	- vorige keuring
+		- n.v.t.
+	- jaartal diagnose? specialist? DVK?
+		- vanaf 2009, jaarlijks DVK, geen specialist
+	- prikken mogelijk?
+		- gebruikt meter
+	- laatste oogcontrole?
+		- 2w terug controle
+	- middelen
+		- metformine, gliclazide, linagliptine
+	- extra
+		- diabetesexpert 1x/jaar?
+		- 1x/10j oogarts
+	- goedkeuring:
+		- rapport en glucosewaarden inscannen
+		- max 3 jaar
+		- rapport internist
+		- **diabetesexpert 1x/jaar?** ja 
+		- ten minste a 5 jaar rapport oogarts
+
+- Dhr. Borgsteijn, DM2
+	- **tijd in: 10:08u, tijd uit** 10:14
+	- direct , indirect 22/32
+	- check BSN 171107755, rijbewijs groot
+	- vorige keuring
+		- n.v.t.
+	- jaartal diagnose? specialist? DVK?
+		- 2022, 1x/3m 
+	- prikken mogelijk?
+		- ja
+	- laatste oogcontrole?
+		- fundusfoto 2w geleden
+	- middelen
+		- gliclazide, metformine
+	- extra
+		- controle DVK/PO a 3m
+		- rapport internist
+		- **diabetesexpert 1x/jaar?** ja
+		- ten minste a 5 jaar rapport oogarts
+	
+- Dhr. Talmon, DM2
+	- **tijd in 10:19, tijd uit** 10:33
+	- direct 14, indirect 32
+	- check BSN 041773755, rijbewijs groep 2
+	- vorige keuring
+		- 5j geleden
+	- jaartal diagnose? specialist? DVK?
+		- 2018, PO bij huisarts 4x/jaar
+	- prikken mogelijk?
+		- prikt niet
+	- laatste oogcontrole?
+		- vorige week bij oogarts
+	- middelen
+		- metformine
+		- gliclazide 
+		- rybelsus (semaglutide)
+	- extra
+		- weet NIET wat hypo is
+		- weet NIET wat te doen
+		- kan NIET prikken
+		- oogfoto
+
+- Dhr. Kooijman, DM2
+	- **tijd in 10:38, tijd uit** **10:46**
+	- direct 8, indirect 32
+	- check BSN 098798832, rijbewijs groep 2
+	- vorige keuring
+		- 2022
+	- jaartal diagnose? specialist? DVK?
+		- 2003, 1x/jaar PO
+	- prikken mogelijk?
+		- suikers controleren
+	- laatste oogcontrole?
+		- 2j geleden /5j
+	- middelen
+		- metformine
+		- sitagliptine
+	- extra
+		- a 5 jaar rapport oogarts
+		- max 3 jaar
+		- **rapport oogarts**
+
+- Dhr. Pengel, ziekte?
+	- **tijd in 11:06, tijd uit** **11:17u**
+	- direct 9, indirect **32**
+	- check BSN ja, rijbewijs groep 2 (bergingsauto)
+	- jaartal diagnose? specialist? DVK?
+		- 2018
+	- laatste keuring
+		- n.v.t. 
+	- prikken mogelijk?
+		- s.c. meting, ja
+	- middelen
+		- metformine
+	- extra
+		- rapport oogarts volgt
+
 
 Maandag 15 juli,
 - Dhr. G, DM

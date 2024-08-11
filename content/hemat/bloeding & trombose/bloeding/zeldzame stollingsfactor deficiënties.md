@@ -1,21 +1,21 @@
 Deze richtlijn bevat aanbevelingen voor diagnostiek en behandeling van zeldzame stollingsfactor deficiënties, te weten fibrinogeen, protrombine, factor V,  VII, X, XI en XIII. Zie originele richtlijn voor doseringen van concentraat of plasma en verwachte spiegelstijgingen (addendum > pagina 48)
 
-- [[#Richtlijn zeldzame stollingsfactor deficiënties]]
+- [[#richtlijn zeldzame stollingsfactor deficiënties]]
 ___
-# Richtlijn zeldzame stollingsfactor deficiënties
+# richtlijn zeldzame stollingsfactor deficiënties
 **bron**: [richtlijn zeldzame stollingsfactor deficiënties, 2023](https://publicatie.hematologienederland.nl/richtlijnen/zeldzame-stollingsfactordeficienties/)
-## Definitie
+## definitie
 - deficiënties fibrinogeen, factor II, V, VII, X, XI, XI en gecombineerde V & VIII
-## Diagnostiek
+## diagnostiek
 - PT: FVII
 - aPTT: FVIII, FIX en FXI
 - aPTT én PT: II (protrombine), V, X, V & VIII, fibrinogeen
 - aPTT en PT normaal: FXIII
 - ![[Pasted image 20240525052914.png]]
-### Work-up
+### work-up
 - aPTT en PT, fibrinogeen, D-dimeren, FXIII, alfa<sub>2</sub>-antiplasmine
 - laagdrempelig factor-activiteit, i.f.v. bevindingen
-### Wanneer aan denken?
+### wanneer aan denken?
 - verhoogde bloedingsneiging + verlengde aPTT/PT
 	- meestal mild fenotype: slijmvloesbloedingen, ingrepen, gynaecologisch
 	- meestal geen correlatie met factor-spiegels
@@ -23,8 +23,8 @@ ___
 	- incl. fibrinogeen, FXIII, alfa<sub>2</sub>-antiplasmine
 - eerstegraads familielid met zeldzame stollingsfactordeficiëntie
 	- meestal autosomaal recessief, m.u.v. (sommige vormen van) FXI deficiëntie en hypo-/dysfibrinogemie
-## A-, hypo- en dysfibrinogenemie
-### Therapeutisch beleid bij bloedingen en operaties
+## a-, hypo- en dysfibrinogenemie
+### therapeutisch beleid bij bloedingen en operaties
 - mild? TXA
 - ernstig en grote ingrepen:
 	- fibrinogeenconcentraat met streefdalspiegel > 1.5 g/dL
@@ -35,8 +35,8 @@ ___
 	- streefdalspiegel > 1.0 g/L
 	- peripartum streefdalspiegel > 1.5 g/L (normaliter fysiologische stijging fibrinogeen)
 - profylactisch LMWH liever niet. Bij harde indicatie en bloedingsanamnese: fibrinogeenconcentraat bijgeven
-## Protrombinedeficiëntie (FII)
-### Therapeutisch beleid bij bloedingen en operaties
+## protrombinedeficiëntie (FII)
+### therapeutisch beleid bij bloedingen en operaties
 - mild? TXA
 - ernstig en grote ingrepen:
 	- PCC 20-40 IE FII/kg i.v., nadien onderhoud a 2 dagen
@@ -55,7 +55,7 @@ ___
 	- FV concentraat alleen preklinische data
 	- alternatieve bron FV is trombocytentransfusie (FV in granulen trombocyten); dan trombo's in plasma, niet in PAS-C vloeistof (bevatten nauwelijks nog FV)
 - remmer? recombinant geactiveerd FVII (NovoSeven) of groot volume plasma en IVIG
-### Therapeutisch beleid bij bloedingen en operaties
+### therapeutisch beleid bij bloedingen en operaties
 - mild? TXA
 - ernstig en grote ingrepen:
 	- geef plasma
@@ -68,7 +68,7 @@ ___
 - komt het meeste voor
 - ernstig als laag
 - behandeling met rFVIIa of plasma-derived FVIIa of PCC indien niet beschikbaar
-#### Therapeutisch beleid bij bloedingen en operaties
+#### therapeutisch beleid bij bloedingen en operaties
 - mild/klein en laag bloedingsrisico? TXA
 - mild/klein en hoog bloedingsrisico?
 	- TXA + rFVIIa voor 24u
@@ -85,7 +85,7 @@ ___
 - profylaxe
 	- FVII < 1IE/dL en/of ernstig bloedingsfenotype
 ## FX deficiëntie
-### Therapeutisch beleid bij bloedingen en operaties
+### therapeutisch beleid bij bloedingen en operaties
 - mild/klein? TXA
 - ernstig/groot?
 	- PCC a 24u tot streef-spiegel > 20 IE/dL
@@ -96,10 +96,10 @@ ___
 	- FX < 30 IE/dL in 3e trimester + bloedingsfenotype of indicatie sectio?
 	- PCC met streefspiegel > 40 IE/dL
 		- aansluitend minstens 3 dagen met streef spiegel > 30 IE/dL
-## Factor XI deficiëntie (hemofilie C)
+## FXI deficiëntie (hemofilie C)
 - zeer matige correlatie factor niveau en bloedingsneiging
 - bij remmer en bloedingen: immuunsuppressie, plasmawisseling en rFVIIa
-### Therapeutisch beleid bij bloedingen en operaties
+### therapeutisch beleid bij bloedingen en operaties
 - voor invasieve ingreep of partus, FXI < 10 IE/dL en eerder FXI gegeven?
 	- check remmer
 - mild/kleine ingreep? TXA
@@ -111,9 +111,9 @@ ___
 	- FXI < 15 IE/dL in 3e trimester? FXI of plasma + TXA rondom partus
 	- FXI 15-70 IE/dL en eerder bloedingen of  geen eerdere invasieve ingrepen: TXA tot minimaal 3D na partus
 		- overige vrouwen enkel bij abnormaal bloedverlies
-## Factor XIII deficiëntie
+## FXIII deficiëntie
 - sterke associatie FXIII activiteit en ernst fenotype
-### Therapeutisch beleid bij bloedingen en operaties
+### therapeutisch beleid bij bloedingen en operaties
 - FXIII < 1IE/dL? 
 	- direct primaire profylaxe
 - FXIII <30 IE/dL en positieve (familie) anamnese?
@@ -126,5 +126,5 @@ ___
 - zwangerschap
 	- monitoring + streefdalspiegel > 20 IE/dL, 9 maanden
 	- overweeg extra FXIII concentraat voor bevalling
-## Datum laatste update
+## datum laatste update
 24-02-2024

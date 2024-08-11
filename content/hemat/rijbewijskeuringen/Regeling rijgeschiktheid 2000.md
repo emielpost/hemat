@@ -1,7 +1,6 @@
 ---
 draft: "true"
 ---
-
 bron: [regeling rijgeschiktheid 2000](https://wetten.overheid.nl/BWBR0011362/2021-07-01)
 ### inleiding
 - van belang:
@@ -40,10 +39,11 @@ bron: [regeling rijgeschiktheid 2000](https://wetten.overheid.nl/BWBR0011362/202
 		- in staat met hypo's om te gana
 		- regelmatig controle DVK
 	- door keurend arts of DVK:
+		- geregeld controle door een diabetesdeskundige
+	- ten minste a 10 jaar rapport oogarts
 		- max 5 jaar
 		- ernstige functiestoornis?
 			- rijtest → max 3 jaar
-		- ten minste a 10 jaar rapport oogarts
 	- herhaaldelijk ernstige hypo's: **niet geschikt**
 		- weer geschikt o.b.v. specialistisch rapport, opgesteld door internist
 	- herhaaldelijk ernstige hypo's tijdens wakkere uren:
@@ -91,7 +91,7 @@ bron: [regeling rijgeschiktheid 2000](https://wetten.overheid.nl/BWBR0011362/202
 		- rapport van medisch specialist
 			- stadium IV max 5 jaar
 			- stadium V max 3 jaar
-	- bij twijfels deskundige praktische rijgeschiktheid CBR
+	- bij **twijfels deskundige praktische rijgeschiktheid CBR**
 ### longziekten
 - ernstige COPD → in beginsel **ongeschikt**
 	- (meestal pCO2 > 55 mmHg en max AMV < 20L?)
