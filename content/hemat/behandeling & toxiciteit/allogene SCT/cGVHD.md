@@ -29,7 +29,5 @@ ___
 - PPI
 - alendroninezuur
 - calcium/vitamine D
-## Aliassen
-[[graft]], [[graft versus host disease]], [[graft vs. host ziekte]]
 ## Datum laatste update
 21-02-2024

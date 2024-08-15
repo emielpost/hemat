@@ -1,5 +1,5 @@
 **bron**: [vademecum AUMC, februari 2022](https://vademecum.hematologie.nl/artikelen/transfusiebeleid/richtlijn-transfusies/)
-## Erytrocytenconcentraat
+## erytrocytenconcentraat
 ### gewassen
 - IgA-deficiëntie
 - herhaaldelijk ernstige allergische reactie
@@ -21,7 +21,7 @@
 - \<1 jaar na allogene SCT
 - na autologe SCT, tenzij anti-B19 antistoffen
 - bij indicatie voor bestraalde producten
-## Trombocytenconcentraat
+## trombocytenconcentraat
 ### HLA-/HPA-getypeerd
 - indien geen opbrengst
 ### bestraald
@@ -40,14 +40,14 @@
 - cellulaire immuundeficiëntie zonder anti-B19 antistoffen
 - \<1 jaar na allogene SCT
 - bij indicatie voor bestraalde producten
-## Plasma
+## plasma
 - verworven meervoudige stollingsdeficiëntie met actieve bloeding/invasieve ingreep en geen andere correctie mogelijk
 	- synthesestoornis (b.v. asparaginase, vitamine K-deficiëntie...)
 	- verbruik of verdunning
 - [[TMA|TTP]]
 - plasmaferese
-## Autologe bloedtransfusie
+## autologe bloedtransfusie
 - zeer zeldzame private antigens en/of antistoffen tegen public antigens
 - geloofsovertuiging, vrees voor besmetting
-## Datum laatste update
+## datum laatste update
 24-02-2024

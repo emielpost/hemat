@@ -13,7 +13,7 @@ ___
 			- hematologische- (< 50%), systeemziekte en hormoonbehandeling
 	- secundair
 		- m.n. PVT en MVT 
-			- levercirrose, abdominale maligniteit, abdominale infllammatie
+			- levercirrose, abdominale maligniteit, abdominale inflammatie
 - zie ook tabel 1
 ## diagnose
 ### klinische presentatie
@@ -23,8 +23,8 @@ ___
 	- chronisch: portale hypertensie en cirrose
 	- asymptomatisch (15%)
 - PVT
-	- acuut: buikpijn, koorts, N/V end diarree
-		- leverfunctie vaak behouden door snelle collateraalvorming en toenname hepatische flow
+	- acuut: buikpijn, koorts, N/V en diarree
+		- leverfunctie vaak behouden door snelle collateraalvorming en toename hepatische flow
 	- chronisch: typisch caverneuze transformatie → periportale collateralen + portale hypertensie
 		- soms portale cholangiopathie met milde cholestase
 - MVT
@@ -33,7 +33,7 @@ ___
 	- chronisch
 		- uitgebreide collateraalvorming
 ### objectieve diagnose
-- PVT en BVS: Doppler met sensitiviteit van 90%
+- PVT en BCS: Doppler met sensitiviteit van 90%
 - MVT: CT of MRI
 ## prognose
 - zie paragraaf
@@ -226,7 +226,7 @@ ___
 			- overweeg observation met herhaaldelijk beeldvorming
 		- chronisch trombus of caverneuze transformatie?
 			- geen indicatie antistolling
-	- CT iedere 2-3m
+	- CT na 2-3m
 		- CR: overweeg stop c.q. profylactisch +/- monitoring m.b.v. Doppler
 		- PR: door met CT a 2-3m
 		- progressie/geen respons: overweeg stoppen en klinisch vervolgen of i.v. procedure

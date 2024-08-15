@@ -210,7 +210,7 @@ ___
 	- adenovirus-geassocieerd virus (AAV)
 		- voordeel:
 			- weinig immunogeen; zelden symptomen
-			- niet-integrerend: lage kans ' catastrofale integratie' 
+			- niet-integrerend: lage kans 'catastrofale integratie' 
 		- nadeel:
 			- niet-integrerend: expressie kan verloren gaan na celdeling
 				- momenteel niet geschikt in groeiende levers

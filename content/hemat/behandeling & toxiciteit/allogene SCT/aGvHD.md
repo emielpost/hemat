@@ -1,10 +1,17 @@
+---
+aliases:
+  - graft
+  - graft versus host disease
+  - graft vs. host ziekte
+---
+
 Acute graft vs. host ziekte is een bekende complicatie van allogene SCT en [[DLI]]. Het uit zich als diarree, rash en/of de ontwikkeling van nieuwe leverenzymstoornissen. I.f.v. de ernst dient GvHD al snel met systemische immuunsupressieve therapie (IST) behandeld te worden. Ook al suggereert GvHD eveneens de aanwezigheid van een graft vs. disease effect, en is het theoretisch dus zelfs gewenst, een ernstige "graft" kan escalatie van IST noodzakelijk maken met verhoogde kans op opportunistische infecties en overlijden tot gevolg.
 ___
 **bron**: [vademecum AUMC, oktober 2022](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/acute-graft-versus-host-disease-gvhd/)
-## Definitie
+## definitie
 - klassiek: < 100 dagen
 - persisterend, recidiverend of late-onset: > 100 dagen
-## **Diagnostiek**
+## diagnostiek
 - huidafwijkingen
 	- biopt
 - diarree
@@ -18,15 +25,15 @@ ___
 	- gastro-/duodenoscopie met biopten
 - hyperbilirubinemie/leverenzymstijgingen
 	- overweeg biopt (stollingscorrectie)
-## **Classificatie**
+## classificatie
 - stadium 0 - 4
 	- huid: van geen rash tot gegeneraliseerde erythrodermie en bullae
 	- lever: bili van < 33 tot bili > 255
 	- GIS: diarree van < 500cc of nausea tot > 2000cc/dag of +++ buikpijn
 - graad I-IV
 	- dimensie reductie stadia huid, lever en darm
-## **Behandeling**
-### Graad I
+## behandeling
+### graad I
 - CC creme (b.v. 0.1% TAC of betamethason 0.05%)
 - vermijd zonlicht en fotosensitizerende medicatie
 - CsA en MMF continueren
@@ -38,21 +45,21 @@ ___
 	- CD3 > 250 bij infusie stamcellen
 	- GvHD vroeg, i.e. vóór neutro's > 1.0
 	- sub-therapeutische ciclo-spiegels na Tx (2x achtereen <150 mcg/L)
-### Graad IIa
+### graad IIa
 - prednisolon 1 mg/kg/dag
-### Graad II
+### graad II
 - prednisolon 2 mg/kg/dag
 - CsA continueren dan wel hervatten; p.o. / i.v.
-### Graad III-IV
+### graad III-IV
 - klinische opname indien orale en intake en medicatie inname niet gewaarborgd
 - prednisolon 2dd 1mg/kg/d
 - CsA continueren danwel hervatten; p.o./i.v.
-### Steroïd refractaire GvHD
+### steroïd refractaire GvHD
 - progressie na 7 dagen, < PR na 14 dagen of geen CR na 28 dagen
 - ruxolitinib, MSC of ATG
 - fecestransplantatie
 - vedolizumab
-### Algemeen
+### algemeen
 - bij graad II - IV:
 	- start afbouwen na minimaal 14 dagen behandeling
 	- stop MMF
@@ -72,7 +79,7 @@ ___
 		- check micronutriënten
 		- overweeg ICC diëtist
 		- eventueel TPV
-## Profylaxe
+## profylaxe
 - CMV/EBV monitoring volgens indicatie
 - schimmelprofylaxe volgens richtlijn:
 	- \> 30 mg prednisolon tot prednisolon < 10 mg/dag
@@ -81,7 +88,5 @@ ___
 - calcium/vitamine D3 
 - langdurig? check electrolieten, HCO3 en albumine
 - blijf alert op andere oorzaken diarree
-## **Aliassen**
-[[graft]], [[graft versus host disease]], [[graft vs. host ziekte]]
-## **Datum laatste update**
+## datum laatste update
 28-11-2023

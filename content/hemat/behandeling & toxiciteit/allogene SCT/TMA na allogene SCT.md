@@ -1,10 +1,10 @@
 Na allogene stamceltransplantatie ontwikkelt zo'n 10-35% van de patiënten een trombotische microangiopathie ([[TMA]]) als gevolg van endotheelschade door conditionering, medicatie, infecties en/of GvHD. Klinisch uit zich dit vaak als [[TMA|TTP]]/HUS, alleen is er geen sprake van verminderde ADAMTS13-activiteit. Er wordt gesuggereerd dat anti-factor H antistoffen een rol spelen bij dit fenomeen.
 ___
 **bron**: [vademecum AUMC, maart 2022](https://vademecum.hematologie.nl/artikelen/celtherapie/allosct/transplantatie-geassocieerde-trombotische-microangiopathie-tma-2/)
-## Kliniek
+## kliniek
 - Coombs-negatieve hemolytische anemie: neurologische, pulmonale, renale en gastro-intestinale problemen, VOD of polyserositis
 	- DD met o.a. GvHD erg moeilijk: biopten
-## Risicofactoren
+## risicofactoren
 - TBI
 - fludarabine
 - busulfan
@@ -13,7 +13,7 @@ ___
 - infecties
 - vrouw
 - hogere leeftijd
-## Diagnose
+## diagnose
 - definitie volgens International Working Group:
 	- \> 4% fragmentocyten, EN
 	- trombo's < 50 of daling > 50%, EN
@@ -21,7 +21,7 @@ ___
 	- Hb daling of toename toename transfusiebehoefte, EN
 	- daling haptoglobine
 - diagnose op biopt ook mogelijk
-## Behandeling
+## behandeling
 ### 1e lijn
 - wegnemen/behandelen oorzakelijke factor
 ### 2e lijn
@@ -29,5 +29,5 @@ ___
 - rituximab: remmen antistofproductie factor H
 - eculizumab: bij complementdysregulatie (C3, C4 meten?), kan vaak weer gestopt worden
 - defibrotide
-## Datum laatste update
+## datum laatste update
 24-02-2024

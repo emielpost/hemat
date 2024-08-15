@@ -20,11 +20,11 @@ ___
 ### algemene principes
 - essentieel: identificeren hoog-risico factoren
 	- high-risk aPL profiel: LAC-, dubbel- of triple-positief
-	- (low-risk aPL profiel: geisoleerde aCL of aB2GP, zeker als transiënt)
+	- (low-risk aPL profiel: geïsoleerde aCL of aB2GP, zeker als transiënt)
 	- bijkomende RF'en:
 		- bijkomende a-i aandoeningen, zeker SLE
 		- voorgeschiedenis van trombotische en/of obstetrische events
-		- gangbare CV RF'en
+		- gangbare eCV RF'en
 - CVRM volgens gangbare richtlijnen
 - profylactisch LMWH voor chirurgie, langdurige immobilisatie en kraambed
 - counseling t.a.v. VKA en INR, zwangersplanning, CVRM etc.
@@ -41,7 +41,7 @@ ___
 ### secundaire profylaxe in APS
 - APS en 1e VTE:
 	- VKA
-		- DOAC gecontraindiceerd, tenzij INR niet gehaald of contraindicatie voor VKA
+		- DOAC gecontraïndiceerd, tenzij INR niet gehaald of contraindicatie voor VKA
 	- levenslang, tenzij uitgelokt
 		- indien uitgelokt, dan conform richtlijn voor overige patiënten
 			- overweeg alsnog levenslang als risicofactoren voor recidief
@@ -81,6 +81,7 @@ ___
 29-02-2024
 ___
 # vademecum Erasmus MC, 2023
+bron: [vademecum Erasmus MC](https://www.vademecumhematologie.nl/artikelen/hemostase-en-trombose/antifosfolipiden-syndroom/)
 ## classificatie criteria
 Tenminste 1 klinisch en 1 laboratorium criterium:
 ### klinische criteria:
