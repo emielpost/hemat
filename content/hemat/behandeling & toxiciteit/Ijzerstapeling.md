@@ -35,6 +35,6 @@ ___
 	- zie onderstaand algoritme:
 		- i.f.v. mate van leverbetrokkenheid en LVEF deferasirox of deferoxamine mono therapie vs. combinatie therapie of hoge dosis. 
 			- bij aantasting LVEF i.v. deferoxamine/combinatietherapie
-![[Pasted image 20240328061407.png]]
+![[Pasted image 20240328061407.png|800]]
 ## datum laatste update
 28-03-2024
