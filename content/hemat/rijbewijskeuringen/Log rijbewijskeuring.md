@@ -3,6 +3,268 @@ draft: "true"
 date created: zaterdag 3 augustus 2024 11:08
 date modified: dinsdag 6 augustus 2024 11:08
 ---
+- DM2
+	- **tijd in , tijd uit**
+	- BSN: 
+	- direct , indirect 22/32
+	- check BSN
+	- welk rijbewijs?
+	- vorige keuring?
+		- 
+	- jaartal diagnose?
+		- 
+	- weet wat hypo is?
+		- 
+	- < 12m ernstige hypo gehad?
+		- 
+	- risico's hypo?
+		- 
+	- hypo awareness?
+		- 
+	- wat te doen bij hypo?
+		- 
+	- in staat tot zelfcontrole?
+		- 
+	- recente suiker?
+		- 
+	- recente glucosewaarden?
+		- 
+	- ernstige complicaties?
+		- 
+	- welke medicatie (alle, ook niet-diabetes medicatie)?
+		- 
+	- onder behandeling internist?
+		- 
+	- onder controle bij praktijkondersteuner, diabetesverpleegkundige?
+		- 
+	- laatste oogcontrole + verslag
+		- 
+	- to do:
+		- 
+	- goedkeuring:
+		- groep 2 max 3 jaar
+			- ten minste a 5 jaar rapport oogarts
+		- groep 1 max 5 jaar
+- CNS
+	- tijd in , tijd uit 
+	- BSN: 
+	- direct , indirect 22/32
+	- check BSN , rijbewijs groep?
+	- vorige keuring
+		- 
+	- nierfunctie in MDRD?
+		- eGFR?
+	- beperking in uw functioneren?
+		- 
+	- dialyse nee
+		- 
+	- algemene conditie
+		- maximale inspanningen?
+	- hartritmestoornis laatste 6m?
+		- 
+	- pijn op de borst laatste 6m?
+		- 
+	- ernstige hypotensie bij dialyse laatste 6m?
+		- 
+	- extra
+		- brief nefroloog?
+	- goedkeuring:
+		- max 3 jaar
+		- overweeg **rijgeschiktheidstest
+- HT
+	- **tijd in , tijd uit**
+	- BSN: 
+	- direct , indirect 22/32
+	- check BSN
+	- welk rijbewijs?
+	- vorige keuring?
+		- 
+	- jaartal diagnose?
+	- laatste bloeddrukmetingen?
+		- 
+	- welke medicatie (alle, ook niet-diabetes medicatie)?
+		- hydrochloorthiazide, metoprololsuccinaat
+	- actieve behandeling bij HA of internist?
+		- 
+	- goed-/afkeuring:
+		- maligne HT?
+			- afgekeurd
+		- DBD < 110 mmHg of SBD < 180 mmHg?
+			- groep 1 en 2 zonder termijnbeperking
+		- DBD > 110 mmHg of SBD > 180 mmHg?
+			- groep 1 voor 5 jaar, groep 2 voor 3 jaar
+
+- Maandag 19 augustus,
+	- Dhr. Eijsink, HT; 22
+		- **tijd in 09:41u, tijd uit** 09:51
+		- BSN: 035259310
+		- groep 1
+		- direct 10, indirect 22
+		- check BSN
+			- 035259310
+		- welk rijbewijs?
+			- klein rijbewijs
+		- vorige keuring?
+			- n.v.t.
+		- jaartal diagnose?
+			- 2000
+		- laatste bloeddrukmetingen?
+			- 16-8: RR 168/72
+			- 17-8: RR 168/81, 156/85, 153/76
+			- 18-8: RR 165/83, 160/85, 151/83, 160/87
+		- welke medicatie (alle, ook niet-diabetes medicatie)?
+			- hydrochloorthiazide, metoprololsuccinaat
+		- onder behandeling bij HA of internist?
+			- controle HA iedere 6m
+		- goed-/afkeuring:
+			- maligne HT?
+				- afgekeurd
+			- DBD < 110 mmHg of SBD < 180 mmHg?
+				- groep 1 en 2 zonder termijnbeperking
+			- DBD > 110 mmHg of SBD > 180 mmHg?
+				- groep 1 voor 5 jaar, groep 2 voor 3 jaar
+	- Dhr. Visser, DM2; 22
+		- **tijd in 09:54u, tijd uit** 10:02u
+		- BSN: 107785109
+		- direct 8, indirect 22
+		- check BSN
+			- ok
+		- welk rijbewijs?
+			- groep 2
+		- vorige keuring?
+			- 2020
+		- jaartal diagnose?
+			- 2013
+		- weet wat hypo is?
+			- ja
+		- < 12m ernstige hypo gehad?
+			- nee
+		- kent risico's hypo?
+			- ja
+		- hypo awareness?
+			- ja, hypo's 4.8
+		- wat te doen bij hypo?
+			- ja
+		- in staat tot zelfcontrole?
+			- ja
+		- recente suiker?
+			- 7.7
+		- recente glucosewaarden?
+			- 7-8 t/m 12-8: g.b.
+		- ernstige complicaties?
+			- nee
+		- welke medicatie (alle, ook niet-diabetes medicatie)?
+			- metformine, gliclazide, ozempic
+		- onder behandeling internist?
+			- nee
+		- onder controle bij praktijkondersteuner, diabetesverpleegkundige?
+			- ja, 1x/4 maanden
+		- laatste oogcontrole + verslag
+			- augustus '24
+		- to do:
+			- rapport oogarts akkoord
+		- goedkeuring:
+			- groep 2 max 3 jaar
+				- ten minste a 5 jaar rapport oogarts
+			- groep 1 max 5 jaar
+	- Dhr. Samoedj, DM2; 32
+		- welk rijbewijs?
+			- groot
+		- vorige keuring?
+			- 2019
+		- jaartal diagnose?
+			- 2014
+		- weet wat is een hypo?
+			- ja
+		- < 12m ernstige hypo gehad?
+			- nee
+		- kent risico's hypo?
+			- ja
+		- hypo awareness?
+			- ja 
+		- wat te doen bij hypo?
+			- dextro, boterham
+		- in staat tot zelfcontrole?
+			- ja
+		- recente suiker?
+			- recent bij huisarts < 10 
+		- recente glucosewaarden?
+			- - 
+		- ernstige complicaties?
+			- nee
+		- welke medicatie (alle, ook niet-diabetes medicatie)?
+			- metformine, gliclazide, empagliflozine
+		- onder behandeling internist?
+			- HA
+		- onder controle bij praktijkondersteuner, diabetesverpleegkundige?
+			- 1x/3m bij PO
+		- laatste oogcontrole + verslag
+			- 21 augustus a.s.
+		- goedkeuring:
+			- groep 2 max 3 jaar
+				- ten minste a 5 jaar rapport oogarts
+			- groep 1 max 5 jaar
+	
+- Zaterdag 17 augustus,
+	- Mw. Jankipersat, CNS
+		- tijd in 09:32u, tijd uit 09:39u 
+		- BSN: 260811592
+		- direct, indirect 32
+		- check BSN ok , rijbewijs groep 1
+		- vorige keuring
+			- geen
+		- nierfunctie in MDRD?
+			- eGFR onbekend?
+		- beperking in uw functioneren?
+			- geen
+		- dialyse nee
+			- nee
+		- algemene conditie
+			- maximale inspanningen?
+		- hartritmestoornis laatste 6m?
+			- geen
+		- pijn op de borst laatste 6m?
+			- geen
+		- ernstige hypotensie bij dialyse laatste 6m?
+			- n.v.t.
+		- extra
+			- **brief nefroloog?**
+		- goedkeuring:
+			- **3-10 jaar i.f.v. eGFR**
+			- overweeg rijgeschiktheidstest	
+	- Dhr. Brinkman, DM2
+		- **tijd in 09:44u, tijd uit 09:53**
+		- BSN: 069232842
+		- direct 9, indirect 32
+		- check BSN
+		- welk rijbewijs?
+			- C en D
+		- vorige keuring?
+			- 2021
+		- jaartal diagnose?
+			- 2001
+		- welke medicatie (alle, ook niet-diabetes medicatie)?
+			- metformine, dapagliflozine, insuline
+		- onder controle bij praktijkondersteuner, diabetesverpleegkundige en/of internist?
+			- 3-4x/jaar bij PO in 1e lijn
+		- ernstige diabetische complicaties?
+			- nee
+		- weet wat een hypo is?
+			- ja
+		- wat te doen bij hypo?
+			- ja
+		- hypo awareness?
+			- ja
+		- in staat tot zelfcontrole?
+			- ja
+		- laatste oogcontrole + verslag
+			- **volgt**
+		- laatste suikers
+			- wo-d 4.7, 6.4, 6.2, 6.2
+		- goedkeuring:
+			- max 3 jaar
+			- ten minste a 5 jaar rapport oogarts
+
 - Dinsdag 6 augustus,
 	- Dhr. Bender, ziekte: DM2
 		- **tijd in 09:34, tijd uit** 09:46u
@@ -30,7 +292,7 @@ date modified: dinsdag 6 augustus 2024 11:08
 	- Dhr. Gielis, ziekte: DM2
 		- **tijd in 09:52, tijd uit** 10:04
 		- BSN: ok
-		- direct 14, indirect 22/32
+		- direct 14, indirect 32
 		- vorige keuring
 			- 2019
 		- jaartal diagnose?
@@ -59,7 +321,7 @@ date modified: dinsdag 6 augustus 2024 11:08
 	- Dhr. Versantvoort → **geen vragenlijst!**
 		- **tijd in 10:10, tijd uit** **10:22**
 		- BSN: ok
-		- direct 12, indirect 22/32
+		- direct 12, indirect 32
 		- check BSN ok, rijbewijs groep 2
 		- vorige keuring
 			- 2019
