@@ -1,7 +1,7 @@
 Hemochromatose is een erfelijke aandoening waarbij het lichaam te veel ijzer uit de darm absorbeert. Dit leidt tot ijzerstapeling in verschillende organen. Na verloop van tijd kan dit leiden tot ernstige symptomen. Hoewel de genetische aanleg voor hemochromatose niet zeldzaam is, manifesteert de ziekte zich lang niet altijd.
 ___
 **bron**: [richtlijn hereditaire hemochromatose, 2018](https://richtlijnendatabase.nl/richtlijn/hereditaire_hemochromatose_hh/startpagina.html)
-## Inleiding
+## inleiding
 oorzaken ijzeroverschot: 
 - primaire (hereditaire) hemochromatose
 	- HFE-gerelateerd (meest voorkomend)
@@ -27,18 +27,18 @@ oorzaken ijzeroverschot: 
 			- hepatitis
 		- porphyria cutanea tarda
 		- alcoholabusus
-## Pathogenese en epidemiologie
+## pathogenese en epidemiologie
 - HFE-mutaties: lage hepcidine concentraties
 	- hepcidine remt ferroportine in duodenum en macrofagen
 	- meest gangbaar: homozygote C282Y of heterozygote C282Y en H63D
 		- samen prevalentie van 1.5-5% in Noord-Europese bevolking
 			- lage klinische penetrantie, kan b.v. gemaskeerd worden door menstruatie, zwangerschap, bloeddonatie en PPI's
-## Diagnostiek bij hemochromatose
+## diagnostiek bij hemochromatose
 Inzetten als:
 - verdenking o.b.v. kliniek
 - bij toeval gevonden laboratoriumuitslagen
 - familiescreening
-## Symptomatologie
+## symptomatologie
 klassiek trias van Trousseau:
 - gebruinde huid
 - hepatomegalie
@@ -51,7 +51,7 @@ of trias van Brissot (3 A's):
 - aminotransferase verhoging
 overig:
 - seksuele disfunctie/infertiliteit
-## Ijzerparameters bij hemochromatose
+## ijzerparameters bij hemochromatose
 - TSAT ("transferrinesaturatie"; niet-nuchter ok)
 	- serumijzer + transferrine (serumeiwit)
 		- transferrine negatief acuut fase eiwit
@@ -72,12 +72,12 @@ overig:
 			- NASH
 	- bedenk: verhoogd ijzer in RES doet ferritine ook stijgen
 	- geen afkapwaarde te geven
-## Interpretatie:
+## interpretatie:
 - TSAT verhoogd maar ferritine normaal: teveel ijzer in het RES, i.e. (nog) niet schadelijk.
 - TSAT normaal en ferritine verhoogd: overschatting van hoeveelheid lichaamsijzer
 - TSAT verhoogd en ferritine verhoogd: kan duiden op parenchymaal (en dus toxisch) teveel aan ijzer
 - in NL geen draagvlak voor gebruik UIBC
-## Aanvullend/genetisch onderzoek bij hemochromatose
+## aanvullend/genetisch onderzoek bij hemochromatose
 - indicatie: kaukasisch, transferrinesaturatie > 45% en verhoogd ferritine
 	- DNA-onderzoek naar C282Y en H63D
 		- homozygoot C282Y: HH
@@ -86,13 +86,13 @@ overig:
 				- overleg expertisecentrum (Radboud) en/of
 				- MRI-lever of leverbiopt en/of
 				- aanvullend genetisch onderzoek
-### Ijzer in de lever: leverbiopsie bij hemochromatose
+### ijzer in de lever: leverbiopsie bij hemochromatose
 - niet aanbevolen voor diagnose
 	- soms gedaan indien onbegrepen cirrose. 
 		- bedenk: reticulo-endotheliaal ijzer voorspelt afwezigheid HH
 - bij ferritine > 1000 overwegen ter beoordeling leverschade
 	- mate van fibrose/cirrose, alternatief: fibroscan (maar niet gevalideerd voor HH)
-### Ijzer in de lever: MRI bij hemochromatose
+### ijzer in de lever: MRI bij hemochromatose
 - te overwegen als negatief DNA-onderzoek én geen alternatieve verklaring voor verhoogd ferritine (zoals alcohol, steatose, leverziekte)
 - indicaties:
 	- hoog ferritine en TSAT > 45% maar negatieve DNA-test
@@ -100,10 +100,10 @@ overig:
 	- ter bevestiging diagnose
 	- ter kwantificatie ernst
 	- meting effect therapie
-### Diagnostisch vervolgonderzoek bij hemochromatose
+### diagnostisch vervolgonderzoek bij hemochromatose
 - conform hierboven, i.e. MRI en/of biopt op indicatie
 - diagnostisch aderlaten niet aangeraden
-### Differentiaal diagnose verhoogd ferritine bij normale TSAT (< 45%)
+### differentiaal diagnose verhoogd ferritine bij normale TSAT (< 45%)
 - 300 - 1000
 	- metabool syndroom/NASH
 	- alcohol
@@ -123,7 +123,7 @@ overig:
 	- adult-onset Still
 	- HLH/MAS
 	- fulminant leverlijden
-## Behandeling bij hemochromatose
+## behandeling bij hemochromatose
 - flebotomie
 	- absolute voorkeur: goedkoop en veilig
 	- (deels) reversibiliteit van CMP, hypogonadotroop hypogonadisme en glucose-intolerantie en levercirrose
@@ -152,11 +152,11 @@ overig:
 	- voor PPI weinig evidence
 	- internationale richtlijn: geen rauwe schaaldieren t.v.v. infectie met vibrio vulnificans (grote gevoeligheid bij mensen met ijzerstapeling!)
 		- NL richtlijn: vooral wereldreizigers, hier weinig kans op
-## Genetisch onderzoek verwanten
+## genetisch onderzoek verwanten
 - al dan niet via klinisch genetica, familieleden door proband zélf benaderd:
 	- broers en zussen > 18j i.g.v. homozygotie C282Y
 	- ook kinderen > 18j, tenzij partner niet Kaukasisch 
 	- ook ouders, tenzij hoge leeftijd
 - indien homozygoot: ijzerparameters a 3 jaar
-## Datum laatste update
+## datum laatste update
 24-02-2024

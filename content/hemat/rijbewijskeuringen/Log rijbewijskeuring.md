@@ -199,7 +199,7 @@ date modified: dinsdag 6 augustus 2024 11:08
 		- onder controle bij praktijkondersteuner, diabetesverpleegkundige?
 			- 1x/3m bij PO
 		- laatste oogcontrole + verslag
-			- 21 augustus a.s.
+			- 21 augustus a.s. → ok
 		- goedkeuring:
 			- groep 2 max 3 jaar
 				- ten minste a 5 jaar rapport oogarts

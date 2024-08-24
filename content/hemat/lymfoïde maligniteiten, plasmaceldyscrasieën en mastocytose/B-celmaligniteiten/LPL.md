@@ -209,3 +209,6 @@ ___
 	- toename normale mestcellen (heel karakteristiek)
 ## Datum laatste update
 24-02-2024
+___
+# Bing-Neel syndroom: Update on Diagnosis and Treatment
+**bron**: 

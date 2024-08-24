@@ -2,6 +2,7 @@
 date created: donderdag 25 juli 2024 21:07
 date modified: dinsdag 20 augustus 2024 05:08
 ---
+Serumziekte is een type immuuncomplex-gemedieerde overgevoeligheidsreactie (type III) die optreedt na toediening van heterologe sera of bepaalde geneesmiddelen. Deze aandoening wordt gekarakteriseerd door de vorming van immuuncomplexen, bestaande uit antigenen en antilichamen, die zich afzetten in de bloedvaten en weefsels. Dit leidt tot een ontstekingsreactie, met klinische symptomen zoals koorts, huiduitslag, artralgie en lymfadenopathie. De aandoening is doorgaans zelflimiterend, maar kan ernstige complicaties veroorzaken in zeldzame gevallen. Behandeling richt zich op symptoombestrijding en het vermijden van verdere blootstelling aan het veroorzakende agens.
 ___
 # serum sickness and serum sickness-like reactions (SSLR), UpToDate 2022
 **bron**: [[serumziekte_UpToDate.pdf]]
@@ -27,7 +28,7 @@ ___
 	- ATG
 	- rituximab
 	- infliximab
-	- obiniutuzumab, omalizumab, alemtuzumab e.a.
+	- obinutuzumab, omalizumab, alemtuzumab e.a.
 	- zelden plasma, insectensteken, vaccinaties
 ### risicofactoren
 - veroorzakend middel
@@ -147,9 +148,8 @@ ___
 - herbehandelingsprotocollen
 	- graduele dosis escalatie +/- steroïden
 	- overweeg verwijzing naar allergoloog
-
-
-
+## datum laatste update
+20-08-2024
 ___
 # obinutuzumab-geïnduceerde serum ziekte
 **bron**: [Clin Case Rep, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457998/)
@@ -160,7 +160,7 @@ ___
 			- 4x probleemloos toegediend geweest (enkel milde type IV hypersensitiviteit)
 	- daags nadien pijn heupen en linkerknie, zwakte en malaise
 		- lopen uiteindelijk niet te doen
-	- bilatreaal paresthesieen vingers en tenen
+	- bilateraal paresthesieen vingers en tenen
 	- CRP 305, BSE 89, C3 normaal, C4 normaal, urinezuur normaal, geen TLS
 	- start prednisolon 1mg/kg met resolutie klachten
 		- succesvol afgebouwd over 4w
@@ -174,4 +174,4 @@ ___
 - niet altijd complement verbruik
 - prednisolon altijd succesvol
 ## datum laatste update
-2024-07-25
+25-07-2024

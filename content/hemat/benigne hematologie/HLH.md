@@ -1,24 +1,28 @@
+---
+date created: zaterdag 4 mei 2024 21:05
+date modified: zaterdag 24 augustus 2024 13:08
+---
 HLH (Hemofagocytaire Lymfohistiocytose) is een ernstige aandoening gekenmerkt door een hyperinflammatoire immuunrespons, gekenmerkt door abnormaal geactiveerde macrofagen en cytotoxische T-cellen. Een opvallend kenmerk is de aanwezigheid van hyperferritinemie. Het kan voorkomen als primaire HLH of als een secundaire vorm, bekend als MAS-HLH (Macrophage Activation Syndrome) wat meestal geassocieerd is met auto-inflammatoire of auto-immuunziekten.
 ___
 **bron**: [Recommendations for the management of HLH in adults, Blood, 2019](https://ashpublications.org/blood/article/133/23/2465/273833/Recommendations-for-the-management-of)
-## Pathogenese en epidemiologie
+## pathogenese en epidemiologie
 - blijf tijdens behandeling doorzoeken naar oorzaak (zie tabel 1):
 	- infecties meest prevalent (meestal viraal, e.g. EBV, HIV en CMV, maar ook bacterieën, parasieten en fungi)
 	- maligniteiten, meestal lymfomen
 	- MAS bij auto-inflammatoire of auto-immuunstoornissen
 	- overig: na Tx, metabool, trauma, iatrogeen (IS, vaccinatie, chirurgie, hemodialyse), zelden ZWS
-## Diagnose HLH
+## diagnose HLH
 - 5/8 HLH-2004 criteria (zie tabel 2, p2467)
 - HScore kan helpen (zie tabel 3, P2467)
 - sCD25 met AUC 0.90 (vs. 0.78 voor ferritine)
-### Klinisch fenotype
+### klinisch fenotype
 - meestal 3x: koorts, bicytopenie en splenomegalie 
 	- verder septisch beeld
 	- vaak initieel mild met recurrente koorts, lymfadenopathie, rash en arthralgieen; kan snel ++ ernstiger worden
 	- rode vlag: sepsis-beeld wat dramatisch snel verloopt zonder verwekkers/ondanks AB
 - genetisch testen als jong + consanguiniteit, albinisme, jonge mannen met EBV of lymfoproliferatie
 - bedenk: B-symtpomen, gewichtsverlies en/of verhoogde sCD25/ferritine ratio suggereert lymfoom
-## Behandeling
+## behandeling
 - zie figuur 1, p2469, en figuur 2, p2470
 - HLH-94 componenten zijn ++ effectief (even effectief als HLH-2004, minder bijwerkingen)
 	- dexamethason, etoposide, cyclosporine A +/- i.t. therapie
@@ -40,9 +44,9 @@ ___
 	- overweeg IVIG 2-3 dagen (dubieus)
 	- supportive care:
 		- PJP profylaxe, antifungale en antivirale profylaxe
-### Allogene SCT
+### allogene SCT
 - zeker te overwegen, m.n. bij maligne HLH en pHLH
-### Mal-HLH
+### mal-HLH
 #### malignancy-triggered HLH
 - integreren met tumor-behandeling, b.v.: CHOP naar CHOEP of DA-EPOCH
 - doe MRI en LP ter uitsluiting CNS-lokalisatie
@@ -54,7 +58,7 @@ ___
 	- overweeg als te lang cytopeen, koorts persisteert en overige HLH-parameters aanwezig
 		- start antifinflammatoire behandeling met CC's en eventueel IVIG, spaarzaam met etoposide.
 			- + ongoing monitoring
-### Infectie-geassocieerde HLH
+### infectie-geassocieerde HLH
 #### EBV-HLH
 - ook hier: graded response (steroiden +/- IVIG -> etoposide) i.f.v. ernst
 	- monitoring: ferritine, sCD25, bloedbeeld en EBV PCR
@@ -82,5 +86,5 @@ ___
 	- emapalumab (anti-IFN-gamma)
 - EBV-HLH en r/r lymfoom? Allo-SCT
 - bij mal-HLH: onderliggende maligniteit!
-## Datum laatste update
+## datum laatste update
 24-02-2024

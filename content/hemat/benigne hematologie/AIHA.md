@@ -1,7 +1,7 @@
 Auto immuun hemolytische anemie is een aandoening waarbij auto antistoffen de erytrocyt afbreken en zodoende hemolyse veroorzaken. De plaats van afbraak varieert (milt, lever of intravasculair), evenals de ernst en geassocieerde aandoeningen. De juiste diagnostische classificatie is belangrijk omdat de behandeling hier vanaf hangt. 
 ___
 **bron**: hoe behandel ik fulminante AIHA, NTVH 2023 ([[AIHA_hoebehandelik.pdf]])
-## Inleiding
+## inleiding
 - wAIHA (70%)
 	- circa 50% idiopathisch, overig infecties, auto-immuunziekten, immuundeficiënties en (hematologische) maligniteiten
 - cAIHA/CAD (20%)
@@ -9,7 +9,7 @@ ___
 - mAIHA (10%)
 - geen goede definitie ernstige AIHA
 	- grofweg Hb < 5 mmol/L en transfusiebehoefte met een duur < 7 dagen
-## Diagnosestelling
+## diagnosestelling
 - anemie + hemolyse + positieve DAT
 	- 33% heeft lage reti's: lysis voorlopers, inflammatie, beenmergziekte, medicatie of relatief EPO-tekort
 - DAT: 
@@ -18,7 +18,7 @@ ___
 	- positieve DAT niet 100% specifiek: 0.1% gezonde donoren en 1-15% klinische patiënten (zonder hemolyse)
 - zoek naar onderliggende en geassocieerde aandoeningen
 - sluit allo antistoffen uit
-## Behandeling
+## behandeling
 ![[Pasted image 20240429111115.png]]
 
 - expert opinie en extrapolatie vanuit algemene AIHA-behandelprincipes:
@@ -27,20 +27,20 @@ ___
 	- monitor (sub-)klinische hypoxemie: ECG, verwardheid, lactaat
 	- Hb-controle a 4-6 uur
 	- snelle analyse onderliggende oorzaak + behandeling waar mogelijk
-### Transfusie
+### transfusie
 - geen gevalideerde trigger, behalve cardiale en/of cerebrale ischemie
 - niet zozeer restrictief, ondanks risico op hyperhemolyse of hemolytische [[transfusiereacties]] (uiterst beperkt), risico allo-immunisatie 20-40%
 	- pB19 veilig! 
 	- preventief matchen op Rh-fenotype en K
 		- vroeg overleg met transfusielab i.v.m. uitgebreide matching
 - één eenheid per keer, verwarmd indien CAD
-### Ondersteunende behandeling
+### ondersteunende behandeling
 - verhoogd tromboserisico: profylaxe
 - foliumzuur 5mg 1dd
 - EPO (zeker als reticulopenie): 300mcg darbepoëtine per week
 - IVIG als wAIHA
 - warm houden indien CAD (cAIHA), incl. warme transfusies
-### Medicamenteuze behandeling
+### medicamenteuze behandeling
 - wAIHA en mAIHA
 	- prednisolon 1 mg/kg gedurende 2-3 weken tot Hb 6 mmol/L, nadien langzaam afbouwen.
 		- responspercentage circa 80%; MPNS te overwegen indien fulminant, maar niet bewezen
@@ -54,7 +54,7 @@ ___
 	- eculizumab, gemiddeld slechts 0.5 punt Hb-stijging
 	- sutimlimab, gemiddeld 1.7 punt Hb-stijging (werkt snel)
 		- vergoed in 'Orphan Drug Access Protocol': odap-sutimlimab@amsterdamumc.nl
-## Datum laatste update
+## datum laatste update
 4-5-2024
 ___
 **bron**: Wenkebach cursus, 2023
@@ -70,12 +70,12 @@ ___
 - toename erythropoïese
 - kleine lymfoïde aggregaten kán
 - reticuline vezels normaal
-## Datum laatste update
+## datum laatste update
 21-02-2024
 ___
 **bron**: Erytrocytenserologie, Sanquin, 2009 
-## Inleiding
-Auto-antistoffen zonder afbraak kan
+## inleiding
+auto-antistoffen zonder afbraak kan
 - Bedenk + DAT in 25% van gevallen geen duidelijke anemie of hemolyse, verder onderzoek niet altijd nodig
 	- zeker niet recent transfusie? 
 - 4 categorieën antistoffen:   
@@ -85,8 +85,8 @@ Auto-antistoffen zonder afbraak kan
 	- koude auto-antistoffen:
 		- koude auto-hemolysinen(/agglutininen)
 		- bifasische hemolysinen
-## Type antistoffen
-### Incomplete warmte auto-antistoffen
+## type antistoffen
+### incomplete warmte auto-antistoffen
 meest voorkomend, optimaal bij 37 graden. 
 - vrijwel altijd IgG
 	- hemolytische activiteit IgG3 > IgG1 > IgG2 > IgG4
@@ -107,13 +107,13 @@ meest voorkomend, optimaal bij 37 graden.
 - zo mogelijk negatief voor bij patiënt ontbrekende C, c, D, E, e en K
 - zo mogelijk ook negatief voor aangetoonde specifieke auto-antistoffen
 - eventueel compatibel, b.v. ++ hemolyse of specifieke auto-antistoffen zeer sterk
-### Warmte auto-hemolysinen
+### warmte auto-hemolysinen
 - meestal IgM, zeldzaam IgG, DAT vaak alleen positief met anti-C3, meestal aspecifiek
 - vaak geen ernstige afbraak, wel verkorte overleving ery's
 - vaak alleen aantoonbaar m.b.v. enzym-behandelde testerytroctyen
 	- als in vitro reactie met onbehandelde ery's wel +++ ernstig: intravasale hemolyse, -- prognose
 - CAVE als weínig complement activiteit, mogelijk 'opgebruikt' → ery's zonder plasma t.v.v. reactivatie
-### Koude auto-hemolysinen (agglutinen)
+### koude auto-hemolysinen (agglutinen)
 - Vaak IgM, veelal aantoonbaar 15 - 20 graden. 
 	- indien ook bij 30 graden dan afbraak ery's in vivo. 
 - Klinisch vaak acrocyanose door afbraak capillairen bij lage temperaturen +/- paroxysmale koude-hemoglobinurie. 
@@ -123,7 +123,7 @@ meest voorkomend, optimaal bij 37 graden.
 - specificiteit
 	- meestal anti-I, zeldzaam anti-i of combi anti-IH, soms anti-H
 	- I-antigeen bijna iedereen, daarom onmogelijk transfusie compatibel bloed. In uiterste noodzaak I-negatief, dus ii
-### Bifasische hemolysinen (hemolysinen van Donath en Landsteiner)
+### bifasische hemolysinen (hemolysinen van Donath en Landsteiner)
  - complement-bindend, IgG koud
 	 - Binden aan lage temperatuur en hemolyse bij 37 graden door complement activatie
 	 - Klinisch paroxysmale koude-hemoglobinurie kán
@@ -134,7 +134,7 @@ meest voorkomend, optimaal bij 37 graden.
 - specificiteit
 	- Bijna altijd anti-P, ery's zonder P-antigeen zeer zeldzaam. 
 	- In zeldzame gevallen P-antigeen vrij bloed, dan via Sanquin Bank of Frozen Blood (SBFB)
-## Afbraakproces bij AIHA
+## afbraakproces bij AIHA
 - afbraak door warmte auto-antistoffen
 	- extravasculair in milt, soms deels, dan sferocyten (bij volgende passage milt alsnog verwijderd)
 	- soms ook in de lever als tóch complement activatie (zonder i.v. hemolyse goed mogelijk)
@@ -146,7 +146,7 @@ meest voorkomend, optimaal bij 37 graden.
 			- C3 op membraan en extravasculaire hemolyse in lever
 	- soms inactivatie C3b met achterblijven van inactief C3d: beschermt tegen nieuwe complementactivatie
 		- dan donor ery's sneller afgebroken dan eigen ery's
-## Hemolyse door geneesmiddelen
+## hemolyse door geneesmiddelen
 - adsorptie geneesmiddelen aan erytrocytenmembraan
 	- bekend voorbeeld: penicilline, ongeveer 3% positieve DAT, hiervan 5% hemolytische anemie
 	- meestal sterke hechting van anti-IgG en extravasculaire hemolyse in de milt
@@ -161,8 +161,8 @@ meest voorkomend, optimaal bij 37 graden.
 - verandering erytrocytenmembraan
 	- serumeiwitten plakken dan aspecifiek: DAT positief met van alles: anti-IgG, anti-IgA etc., eluaat negatief.
 	- bekendste voorbeeld: cefalosporines
-## Diagnostiek
-### Laboratoriumonderzoek
+## diagnostiek
+### laboratoriumonderzoek
 - reti's, bili, LDH en hapto
 	- hapto móet onderdrukt zijn
 	- reti's kunnen laag zijn
@@ -186,17 +186,17 @@ meest voorkomend, optimaal bij 37 graden.
 		- geneesmiddelen: soms wel, soms geen hemolyse
 		- hoge dosis IVIG: geen hemolyse
 		- recente ABO-incompatibele trombocytentransfusie: mogelijk hemolyse
-### Eluaat
+### eluaat
 - eerst 6x wassen voor niet-gebonden antistoffen
 - dan elutie met hitte of citroenzuur
 - vervolgens eluaat met panel testery's
-### Serumonderzoek
+### serumonderzoek
 - incomplete warmte auto-antistoffen: IAT op enzymbehandelde testerytrocyten
 - warmte auto-hemolysinen: IAT op enzymbehandelde testery's + vers plasma (bron van complement)
 	- test positief als hemolyse (dus niet agglutinatie)
 - koude auto-hemolysinen: zout, geen hulpmiddelen. Bij 16 graden en 30 graden (dan ook in vivo afbraak)
 - bifasische hemolysinen: eerst bij 0 graden incubatie, vervolgens bij 37 graden + complement: dan hemolyse.
-### Onderzoek allo-antistoffen
+### onderzoek allo-antistoffen
 - naast aspecifieke warmte auto-antistoffen (altijd grootste risico)
 	- auto-absorptie: eerst elueren ery's, vervolgens absorptie auto-antistoffen uit serum. wordt meermaals herhaald.
 		- nadelen x2:
@@ -213,10 +213,10 @@ meest voorkomend, optimaal bij 37 graden.
 		- als tóch complementactivatie dan via gespecialiseerd laboratorium: adsorptie autologe ery's bij 0-4 graden (pas op: niet recentelijk getransfundeerd)
 - naast bifasische hemolysinen
 	- vrijwel nooit problemen in (PEG-)IAT
-### Antigeen (geno)typering van patiënt
+### antigeen (geno)typering van patiënt
 - o.a. Rhesus- en K-antigeentypering
 - alternatief genotypering (b.v. als laatste 3 maanden transfusie)
-## Behandeling
+## behandeling
 - vaak eerst compensatoire respons aanmaak ery's afwachten (7-10 dagen)
 	- bij ernstige problemen: transfusie
 - AIHA door warmte-autoantistoffen
@@ -229,5 +229,5 @@ meest voorkomend, optimaal bij 37 graden.
 	- transfusies +/- plasmaferesee
 - bifasische hemolysinen
 	- voorkomen afkoeling en behandel infectie
-## Datum laatste update
+## datum laatste update
 28-11-2023

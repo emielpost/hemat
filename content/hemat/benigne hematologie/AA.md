@@ -1,7 +1,7 @@
 Aplastische anemie is een vorm van immuungemedieerd beenmergfalen. Er is in de pathofysiologie een rol weggelegd voor oligoklonale CD8+ T-cellen, CD4+ T-cellen, afwijkende Treg's en gamma delta T-cellen. Een significant deel van de patiënten laat een toename van GPI-anker negatieve cellen zien en hebben dus bijkomend een [[PNH]]. De aandoening is zeldzaam en niet altijd makkelijk te diagnosticeren, met name het onderscheid met hypoplastische [[MDS]] kan moeilijk zijn. 
 ___
 **bron**: [richtlijn verworven aplastische anemie, maart 2019](https://publicatie.hematologienederland.nl/richtlijnen/verworven-aplastische-anemie-bij-volwassenen/)
-## Differentiaal diagnose
+## differentiaal diagnose
 - o.a. congenitaal BMF'en:
 	- Fanconi anemie: hyperpigmentatie, café-au-lait, korte gestalte, dysplastische duim, onderontwikkelde radius, microcefalie, abnormale nieren, verminderde fertiliteit. Familiair voorkomen gynaecologische- of hoofd/hals maligniteiten, MDS en/of ++ toxiciteit chemo- en/of radiotherapie
 	- Dyskeratosis congenita: nagelafwijkingen, abnormale huidpigmentatie, leukoplakie, oesophagus stricturen, vroeg grijs haar, cerebellaire hypoplasie, retinopathie, vernauwde traanbuisjes
@@ -11,7 +11,7 @@ ___
 	- hairy cell leukemie
 	- myelofibrose
 	- telomeerziekte, familiar: levercirrose, longfibrose, BMF' en, AML en MDS 
-## Associaties/mogelijke oorzaken
+## associaties/mogelijke oorzaken
 - SLE
 - thymoom, lymfoom
 - virale infecties: CMV, EBV, parvo-B19, HHV6, HIV en non-A-E hepatitis
@@ -21,8 +21,8 @@ ___
 	- o.a. NSAID's, propylthiouracil, carbamazepine, chlooramfenicol
 	- chemicalieën of bestrijdingsmiddelen, o.a. benzeen
 	- chemotherapie of radiotherapie 
-## Aanvullend onderzoek
-### Laboratoriumonderzoek
+## aanvullend onderzoek
+### laboratoriumonderzoek
 - o.a. reti's, haptoglobine en DAT, PNH diagnostiek en IFT lymfo's ter uitlsluiting van T-LGL, ANA en anti-dsDNA
 	- verdenking Fanconi?
 		- mitomycine-C test als <40j (overweeg als >40j)
@@ -32,20 +32,20 @@ ___
 			- indien negatief maar hoge verdenking: telomeerlengte bepalen
 	- verdenking congenitaal BMF'en? 
 		- contact gespecialiseerd centrum: panel inzetten
-### Beenmergonderzoek
+### beenmergonderzoek
 #### aspiraat
 - cytomorfologie, IFT, cytogenetica en FISH naar MDS-geassocieerde afwijkingen
 	- DD hMDS moeilijk, dysplasie ook bij AA. Check dysplasie megakaryocyten.
 	- typische cytogenetica voor AA: trisomie 8, deletie 7q, deletie 1q (12)
 #### biopt
 - CD34, CD117 en reticulinekleuring
-### Beeldvorming
+### beeldvorming
 - thymoom? lymfoom? 
-## Classificatie
+## classificatie
 - i.f.v. cellulariteit en cytopenieen
 	- niet-ernstig vs. ernstig vs. zeer ernstig (zie tabel 1, pagina 14)
-## Behandeling
-### Ondersteunend
+## behandeling
+### ondersteunend
 - transfusies
 	- Transfusiegrens trombo's >20 bij gebruik ATG, bestraald
 - infectieprofylaxe
@@ -61,13 +61,14 @@ ___
 	- advies: niet gebruiken
 		- mogelijk verkorte opnameduur bij zeer ernstige AA, niet aangetoond voor ernstige AA
 		- geen effect op OS, remissie en relapse
-### Ziekte-specifieke eerste lijnsbehandeling
-- indicatie: ernstige en zeer ernstige AA. n
+### ziekte-specifieke eerste lijnsbehandeling
+- indicatie: 
+	- ernstige en zeer ernstige AA
+		- niet uitstellen vanwege infecties 
 	- niet-ernstige AA? expectatief
-	- niet uitstellen vanwege infecties 
 - stop myelotoxische medicatie
-- indien geen verbetering < 2-3 weken: start behandeling
-#### Allogene HSCT
+	- indien geen verbetering < 2-3 weken: start behandeling
+#### allogene HSCT
 - 1e lijn als < 40 jaar - 50 jaar en gematchte SIB
 	- lagere kans op recidief of clonale evolutie (naar AML/MDS)
 	- wel hogere kans mortaliteit, GvHD of transplantaat falen
@@ -78,7 +79,7 @@ ___
 	- monosomie 7
 	- overweeg bij jonge patiënt toch te starten met IST, i.e. ATGAM + ciclosporine
 		- dan wel langere neutropenie-duur en iets lagere responskans
-##### Conditionering allo SCT bij jonge patiënt
+##### conditionering allo SCT bij jonge patiënt
 - aandachspunten:
 	- verhoogde kans transplantaatfalen vs. maligniteiten
 	- Bedenk: GvHD niet functioneel in dit ziektebeeld
@@ -92,20 +93,20 @@ ___
 		- MTX: noodzakelijk? Echter in RCT aanmerkelijke reductie transplantatie-gerelateerde mortaliteit
 		- voorkeur voor beenmerg: minder cGvHD
 		- nieuw: intensieve T-cel depletie (in vivo/in vitro) + gemobiliseerde stamcellen uit perifeer bloed. Nog geen advies in richtlijn.
-#### Immuunsuppressieve therapie (IST)
+#### immuunsuppressieve therapie (IST)
 - 1e lijn als > 40 jaar of geen allo SCT mogelijk: ATGAM (paard-ATG) 4 dagen 40mg/kg/dag i.c.m. ciclosporine vanaf D1
 	- HR na 6 maanden in 60-70% van patienten
 		- in geval van HR per twee maanden afbouwen met 25 mg tot 0 mg op 12 maanden
-#### Overige eerste lijn behandeling
+#### overige eerste lijn behandeling
 - androgenen: verhoging telomerase activiteit. 
 	- alleen overweging als geen ATG of allo-HSCT wordt verdragen (OS na 5 jaar 40%, respons 45%)
 - eltrombopag
 	- i.f.v. EBMT RCT!
-#### Zwangerschap na IST
+#### zwangerschap na IST
 - kans op recidief tijdens ZWS: frequente controles
 - supportive care  met transfusies heeft voorkeur
 - individuele gevallen: ciclosporine
-#### Lange termijn FU na IST
+#### lange termijn FU na IST
 - voor onbepaalde tijd i.v.m. secundaire maligniteiten/recidief
 	- 35% recidief
 	- 15% MDS of AML (m.n. monosomie 7 kloon
@@ -115,7 +116,7 @@ ___
 #### AA en PNH
 - grote PNH-kloon? Behandeling AA blijft dezelfde maar ook volgens PNH-richtlijn
 - \> 50% ontwikkelt PNH-kloon in loop van de tijd, vaak klein, soms ook groter +/- hemolyse
-### Tweede lijnsbehandeling
+### tweede lijnsbehandeling
 - refractair na ATGAM + ciclosporine?
 	- neutro's > 0.5 en lage transfusie-frequentie? 
 		- herstel BB afwachten, ciclosporine continueren
@@ -127,7 +128,7 @@ ___
 				- eltrombopag
 				- danazol of alemtuzumab (individuele gevallen)
 				- GEEN cyclofosfamide
-## Datum laatste update
+## datum laatste update
 28-11-2023
 ___
 **bron**: Wenkebach cursus, 2023
