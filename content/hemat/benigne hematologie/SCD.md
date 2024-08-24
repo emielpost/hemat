@@ -1,7 +1,11 @@
+---
+date created: zondag 5 mei 2024 09:05
+date modified: zaterdag 24 augustus 2024 22:08
+---
 Sikkelcelziekte (SCD), een erfelijke hemoglobinopathie door een mutatie in het β-globinegen, veroorzaakt vaso-occlusieve crises met ernstige orgaanschade. De ziekte wordt gekenmerkt door de vorming van HbS-polymeren, die de karakteristieke sikkelvorm van erytrocyten bij zuurstoftekort veroorzaken. Endotheelactivatie, versterkte adhesie, vasoconstrictie en stollingsactivatie spelen een rol bij deze crises. Behandeling omvat voornamelijk pijnstilling en hydratatie, waarbij hydroxycarbamide effectief is in crisispreventie door het verhogen van foetaal hemoglobine. Allogene stamceltransplantatie is de enige curatieve therapie, maar wordt beperkt toegepast vanwege complicaties en donorbeperkingen.
 ___
 **bron**: concept richtlijn sikkelcelziekte 2024 ([[Richtlijn Sikkelcelziekte_FINAL2024-concept mlo.pdf]])
-## Screeningsonderzoek naar orgaanschade
+## screeningsonderzoek naar orgaanschade
 - basisdiagnostiek eerste consult: 
 	- o.a. Hb-typering, alfa-thalassemie onderzoek, uitgebreide bloedgroep typering, genetische counseling, pB19 en HIV
 - vervolgonderzoek:
@@ -11,16 +15,16 @@ ___
 		- o.a. HbS%, ferritine, ijzersaturatie
 	- i.g.v. chelatietherapie: 
 		- o.a. zink, elektrolieten, hormonen, audiogram, MRI T2, DEXA-scan
-## Acute vaso-occlusieve crise
+## acute vaso-occlusieve crise
 - pijnstilling conform geïndividualiseerd behandelplan (zie ook lokale protocollen AMC: [[Pijn protocol, sikkelcel crise volwassenen_SEH.pdf]], [[Pijn protocol, sikkelcel crise_afdelingsprotocol.pdf]])
 	- PCM, NSAID's en morfine 0.1 mg/kg a 20-30 minuten tot VAS < 7 met nadien PCA (tenzij verstandelijke beperking, dan continue)
 	- overweeg clonidine en ketamine
 - hyperhydratie NaCl 0.65% 3L/24 uur gedurende 72 uur, tenzij decompensatio cordis in voorgeschiedenis of chest (1.5L/24 uur)
 - (O2 als SpO2 < 95%)
 - (standaard tromboseprofylaxe)
-## Anticonceptie
+## anticonceptie
 - progestagenen of IUD, oestrogenen relatief gecontraïndiceerd i.v.m. verhoogde tromboseneiging
-## Bloedtransfusie
+## bloedtransfusie
 - indicaties acute top-up transfusie:
 	- aplastische crise, Hb < 3.5, symptomatische anemie, acute miltsequestratie, ACS met milde hypoxie, Hb < 4.5 in zwangerschap of < 5.0 vlak voor partus
 - indicaties acute erytroferese/-wisseltransfusie:
@@ -35,7 +39,7 @@ ___
 	- AB0-Rhesus, Kell, Duffy A, en indien mogelijk Jk(a), Jk(b) en S compatibel bloed ter preventie van allo-immunisatie
 		- Jk(a), Jk(b) en S in volgorde van belang
 		- zonder uitgebreide matching: tot 35% allo-immunisatie
-## Vertraagde hemolytische transfusiereactie
+## vertraagde hemolytische transfusiereactie
 - zonder hyperhemolyse
 	- toch dwingende transfusie indicatie: antilichaam compatibele transfusie
 - met hyperhemolyse (vorm van DHTR)
@@ -49,7 +53,7 @@ ___
 		- rituximab 375 mg/m<sup>2</sup> 1x per week, gedurende 4 weken
 	- derde lijn: 
 		- eculizumab 900 mg 1x per week, gedurende 2 weken
-## Hydrea
+## hydrea
 - in principe enkel HbSS/HbSbeta(0)
 	- bij HbSC of HbSbeta(+) in overleg met expertisecentrum
 - indicaties: > 2 ernstige crisen/jaar, aantasting QoL, kinderen, na ernstig/recidiverend ACS, chronische nierinsufficiëntie + EPO, albuminurie (zie nefropathie)
@@ -58,7 +62,7 @@ ___
 	- dosisreductie als neutro's < 1.25 en trombo's < 80
 	- belangrijke bijwerkingen: leukopenie, ulcera (laterale) enkel, koorts en longinfiltraten
 		- géén verhoogde kans leukemie
-## Peri-operatieve zorg
+## peri-operatieve zorg
 - altijd goede hydratie: vochtintake 3L/24 uur
 - pre-op: 
 	- laag risico (o.a. adenotomie, hernia inguinalis)
@@ -75,12 +79,12 @@ ___
 	- goede hydratie (3L/24 uy=ur)
 	- adequate pijnstilling
 	- tromboseprofylaxe
-## Infectieprofylaxe
+## infectieprofylaxe
 - bewezen in HbSS of HbSbeta(0) maar ook geadviseerd in geval van HbSC of HbSbeta(+)
 	- vaccinatie tegen pneumokokken, HiB, meningococcen ACWY, meningococcen B en influenza
 	- amoxicilline/clavulaanzuur on demand bij koorts > 38.5 of claritromycine als allergisch
 	- malaria profylaxe indien reizen naar endemisch gebied
-## Acute chest syndrome
+## acute chest syndrome
 - definitie: nieuw infiltraat + klinische symptomen (o.a. hoesten, dyspnoe, respiratoir gebonden pijn, tachycardie, hypoxie en koorts)
 	- oorzaken: pneumonie > hypoventilatie > atelectase > vetembolieën
 - beleid:
@@ -91,14 +95,14 @@ ___
 	- top up/wisseltransfusie indien snelle toename O2-behoefte en/of dyspnoe
 - preventie: hydrea indien ernstig of herhaald voorkomen; chronische wisseltransfusie indien niet verdragen
 	- overweeg allo voor individuele patiënt
-## Priapisme
+## priapisme
 - duur >4u: hyperhydratie 3L/24 uur en pijnstilling + ICC uroloog
 	- transfusie niet zinvol
 - preventie: hydrea, finasteride 5 mg 1dd → 1 mg 1dd; alternatief sildenafil en/of wisseltransfusies
-## Retinopathie
+## retinopathie
 - i.i.g 1x/3-5 jaar ICC oogarts
 - proliferatieve retinopathie? lasercoagulatie
-## Pulmonale hypertensie
+## pulmonale hypertensie
 - TTE: rechts kath als TRV > 2.9 m/s of bij klachten indien 2.5-2.9. 
 	- < 2.5 m/s controle a 3 jaar tenzij klachten
 - beleid: 
@@ -106,15 +110,15 @@ ___
 	- precapillair (primair): prostacycline agonisten of endotheline receptor agonisten i.o.m. longarts
 	- postcapillair(LVEF < 50% of GLS < 20%): LVF verbeteren en Holter analyse
 	- overweeg hydrea of wisseltransfusie t.v.v. chronische hemolyse
-## Avasculaire botnecrose
+## avasculaire botnecrose
 - circa 10% life time risico, hoogste risico als HbSS met relatief hoog Hb (b.v. bijkomende alpha thalassemie)
 - chronische intermitterende pijn aan heupen, schouders of lage rug: 
 	1. X-Thorax
 	2. MRI
 - ICC orthopedie: fysio of heup-/schouderkopvervanging?
-## Galsteenlijden
+## galsteenlijden
 - lap chol (eventueel eerst ERCP) enkel indien symptomatisch
-## Levercrise
+## levercrise
 -  acute leversequestratie: pijnlijke hepatomegalie en daling Hb > 1.2
 	- rol beeldvorming onduidelijk
 	- beleid: vocht i.v., corrigeer Hb-daling met transfusie
@@ -122,17 +126,17 @@ ___
 - acute intrahepatische cholestase: pijnlijke hepatomegalie met progressieve icterus en extreme hyperbilirubinemie (ongeconjugeerd en geconjugeerd)
 	- echo ter differentiatie galsteenlijden
 	- top-up transfusie vs. wisseltransfusie i.f.v. ernst kliniek maar raadpleeg expert voor advies
-## Nefropathie
+## nefropathie
 - micoalbumine/kreat > 2.5 mg/mmol bij mannen en > 3.5 mg/mmol bij vrouwen: 
 	- start ACEi/ARB
 	- start hydrea
 - chronische nierinsufficiëntie:
 	- CVRM, o.a. antihypertensiva: streef-RR < 120/70 mmHg
 	- overweeg EPO, streef-Hb > 6.0
-## Cardiomyopathie
+## cardiomyopathie
 - TTE a 3 jaar, m.n. diastolische dysfunctie
 - beleid i.o.m. cardioloog
-## Miltsequestratie
+## miltsequestratie
 - definitie: acute daling Hb > 30% + toename miltdiameter > 2 cm
 	- mortaliteit 15%
 	- recidiefkans 50-80% < 4 maanden
@@ -149,10 +153,10 @@ ___
 	- dringend overwegen allo-SCT!
 	- niet haalbaar? hydrea 
 	- geen bewijs voor TAR, wel behandeling hypertensie
-## Ulcus cruris
+## ulcus cruris
 - ICC dermatologie, wondkweken bij verdenking infectie, beeldvorming ter uitsluiting osteomyelitis
 - 2.5 % HbSS, niet bij andere genotypes, meer bij mannen. Meestal t.p.v. mediale/laterale malleolus. 
-## Ijzerstapeling en chelatietherapie
+## ijzerstapeling en chelatietherapie
 - komt minder voor dan bij thalassemie
 - verdenking: 
 	- MRI lever en hart, ijzerstatus, leverenzymen, botscintigrafie, endocrino: TSH, GH, testosteron, IGF1, FSH, LH, nuchter glucose
@@ -168,12 +172,12 @@ ___
 	- deferoxamine (Desferal)
 		- 2e keuze en/of bij ernstige cardiale stapeling: dan 20-40 mg/kg continue s.c. 5-7 dagen per week, 8-24 uur per dag
 			- continue i.v. indien cardiale stapeling, dan ook deferiprone oraal toevoegen (additief)
-## Preconceptioneel advies
+## preconceptioneel advies
 - partnerscreening bij hemoglobinopathie
 	- counseling klinisch geneticus indien drager hemoglobinopathie of bèta-thalassemie
 - staak 3 maanden voor conceptie: hydrea, ACE-remmers en chelatietherapie
 	- mannen enkel hydrea
-## Zwangerschap
+## zwangerschap
 - verwijzen naar expertisecentra
 - geen chronische transfusies. Indicaties:
 	- tweelingzwangerschap, eerder gecompliceerde zwangerschappen, al bestaande indicatie voor chronische erytrocytenaferese
@@ -198,8 +202,8 @@ ___
 	- screening retinopathie 1x/jaar
 	- flebotomie indien Hb > 7.0 en frequente vaso-occlusieve crises
 	- hydrea bij frequente crisen bij Hb < 7.0
-## Nieuwe behandelmogelijkheden
+## nieuwe behandelmogelijkheden
 - L-glutamine: 25% reductie VOC maar niet toegelaten op Europese markt
 - Voxelotor: Hb-stijging, geen reductie VOC. Indicatie: ernstige hemolytische anemie met onvoldoende respons op hydrea (nog niet geregistreerd)
-## Datum laatste update
+## datum laatste update
 01-05-2024

@@ -1,13 +1,13 @@
 Primaire Immuun gemedieerde Trombocytopenie (ITP) wordt gekenmerkt door een geïsoleerde daling van trombocyten (< 100), waarbij andere mogelijke oorzaken zijn uitgesloten. Er bestaat ook een secundaire ITP, waarbij een onderliggende aandoening wordt gevonden die ook behandeld moet worden en waarop de trombocytopenie doorgaans reageert. De diagnose ITP wordt gesteld in de acute fase bij de eerste vaststelling. Indien er na 3 maanden geen of minimale respons is op de eerste behandeling, wordt dit persisterende ITP genoemd. Na 12 maanden vanaf de diagnose wordt gesproken van chronische ITP.
 ___
 **bron**: [ITP richtlijn voor volwassenen, 2020](https://publicatie.hematologienederland.nl/richtlijnen/immuun-trombocytopenie-itp/)
-## Klinisch beeld en diagnostiek in nieuw gediagnosticeerde fase
+## klinisch beeld en diagnostiek in nieuw gediagnosticeerde fase
 meestal spontaan hematomen, petechieën, tandvleesbloedingen tot ernstige epistaxis, GI-bloeding of hersenbloeding. Minder dan 10% gevallen uitgelokt door infectie (bacterieel/viraal) en andere auto-immuunaandoeningen. 
 - anamnese: check o.a. medicatie en tromboembolische voorgeschiedenis
 	- [DITP](https://ouhsc.edu/platelets/ditp.html)
 - LO: o.a. graderen bloedingen (WHO graad)
-- AO: o.a. IgA, IgG, IgM om CVID en IGa deficiëntie uit te sluiten en manuele diff: o.a. leukocyten inclusie lichaampjes, grey platelets, pseudotrombocytopenie
-## Differentiaal diagnose trombocytopenie
+- AO: o.a. IgA, IgG, IgM om CVID en IgA deficiëntie uit te sluiten en manuele diff: o.a. leukocyten inclusie lichaampjes, grey platelets, pseudotrombocytopenie
+## differentiaal diagnose trombocytopenie
 - pseudo-trombocytopenie
 	- congenitale afwijkingen met reuzentrombocyten
 	- EDTA
@@ -30,17 +30,17 @@ meestal spontaan hematomen, petechieën, tandvleesbloedingen tot ernstige epista
 	- post-transfusie purpura
 	- systemische auto-immuunaandoening
 	- ziekte van von Willebrand type IIb
-## Criteria voor behandeling
+## criteria voor behandeling
 Pas als symtomatisch of zeer laag trombocytengetal.
 - ASH 2019 richtlijn: trombo's < 30 (beperkte evidence), neem o.a. comorbiditeit, antistolling etc. mee
-## Definities respons
+## definities respons
 - NR: trombo's < 30 of minder dan verdubbeling vanaf baseline, of wanneer bloeding
 - R: trombo's > 30 en tenminste verdubbeling en geen bloedingen
 - CR: trombo's > 100 en geen bloeding
 - Recidief na CR:  trombo's < 100 of bloeding
 - Recidief na R: < 30/minder dan verdubbeling of bloeding
-## Bepaling trombocyt-specifieke anttistoffen in stellen van diagnose
-- Belangrijke rol MAIPA: trombo's patiënt gesolubiliseerd waardoor glycoproteinen vrij komen waarop antistoffen.
+## bepaling trombocyt-specifieke antistoffen in stellen van diagnose
+- belangrijke rol MAIPA: trombo's patiënt gesolubiliseerd waardoor glycoproteinen vrij komen waarop antistoffen.
 	- voorkomt aspecfieke binding aan o.a. Fc gammaRIIa antistoffen
 		- directe MAIPA: 80% sensitiviteit en >95% specificiteit
 ## 1e lijns behandeling
@@ -48,8 +48,8 @@ Pas als symtomatisch of zeer laag trombocytengetal.
 	- iets betere, en snellere, respons dan prednison, 'sustained' respons na 6 maanden lijkt iets beter en het aantal bijwerkingen iets minder
 - 2e cyclus na 10 dagen bij uitblijven respons
 - overweeg prednison 1 mg/kg d1-d21 indien verwacht intolerant voor DXM
-## Rescue therapie bij ernstige bloedingen
-- WHO Graad III/IV en/of zeer lage trombo's:
+## rescue therapie bij ernstige bloedingen
+- WHO graad III/IV en/of zeer lage trombo's:
 	- IVIG 1 g/kg per 1-2 dagen, gecombineerd met 40 mg DXM gedurende 4 dagen of 1000 mg methylprednisolon gedurende 3 dagen
 		- geef (aansluitend/tegelijktertijd) trombocytentransfusie bij acute therapie bij vitale bloedingen (graad IV cerebraal/fundus)
 		- overweeg NovoSeven als graad IV bloeding niet reagerend op cyklokapron, IVIG en trombocytentransfusie
@@ -78,7 +78,7 @@ Pas als symtomatisch of zeer laag trombocytengetal.
 	- overweeg ITP lever- en miltscan alvorens splenectomie
 		- sequestratie van Indium gelabelde trombo's in milt?
 	- mogelijk ook betere respons < 50 jaar
-## Behandeling specifieke patiëntengroepen en/of situaties
+## behandeling specifieke patiëntengroepen en/of situaties
 - zwangerschap
 	- DD pre-eclampsie, HELLP-syndroom en zwangerschaps trombocytopenie
 		- trombo's > 100 geen ITP
@@ -92,7 +92,7 @@ Pas als symtomatisch of zeer laag trombocytengetal.
 	- epiduraal zo veel mogelijk vermijden
 - na bevalling: check trombo's neonaat direct na geboorte en in eerste levensdagen (<1 w post-partum, nadir op dag 4)
 	- (+/- atraumatische partus?)
-## Datum laatste update
+## datum laatste update
 08-02-2024
 ___
 **bron**: Wenkebach, 2023
@@ -101,15 +101,15 @@ ___
 ## beenmerg
 - vroeg: vacuoles kern en cytoplasma megakaryocyten, nog geen toename megakaryopoïese
 - laat: hyperplasie megakaryopoïese met linksverschuiving, zonder specifieke afwijkingen
-## Datum laatste update
+## datum laatste update
 21-02-2024
 ___
 **bron**: Hemostase update, 2023
-## Behandeling
+## behandeling
 ### 1e lijn:
 - DXM/prednisolon, respons rate na 14 dagen 60-80%
 ### 2e lijn:
-- TPO-RA of rituximab
+- TPO-RA of rituximab (+ DXM)
 	- overall en early respons iets beter met TPO-RA
 	- richtlijn: 50% werkgroep voorkeur voor rituximab, 50% voor TPO-RA
 	- 30% van gevallen houdt blijvende respons na staken TPO-RA
@@ -126,5 +126,5 @@ ___
 - sutimlimab (C1 remmer)
 	- vrij veel bijwerkingen
 - (FcRn antagonist, ...)
-## Datum laatste update
+## datum laatste update
 25-02-2024

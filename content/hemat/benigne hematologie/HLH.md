@@ -21,7 +21,7 @@ ___
 	- vaak initieel mild met recurrente koorts, lymfadenopathie, rash en arthralgieen; kan snel ++ ernstiger worden
 	- rode vlag: sepsis-beeld wat dramatisch snel verloopt zonder verwekkers/ondanks AB
 - genetisch testen als jong + consanguiniteit, albinisme, jonge mannen met EBV of lymfoproliferatie
-- bedenk: B-symtpomen, gewichtsverlies en/of verhoogde sCD25/ferritine ratio suggereert lymfoom
+- bedenk: B-symptomen, gewichtsverlies en/of verhoogde sCD25/ferritine ratio suggereert lymfoom
 ## behandeling
 - zie figuur 1, p2469, en figuur 2, p2470
 - HLH-94 componenten zijn ++ effectief (even effectief als HLH-2004, minder bijwerkingen)
@@ -69,8 +69,8 @@ ___
 ### MAS-HLH
 - CC's 1e lijn: MPNS (1g/d voor 3-5 dagen)
 	- +/- anakinra 2-6 mg/kg tot 10 mg/kg/dag
-- Steeds meer ervaring met tocilizumab
-- Etoposide (50-100 mg/m2, dus lage dosis, 1x/week) bij ernstige ziekte of CNS-betrokkenheid
+- steeds meer ervaring met tocilizumab
+- etoposide (50-100 mg/m2, dus lage dosis, 1x/week) bij ernstige ziekte of CNS-betrokkenheid
 ### HLH-like cytokine storm door immunotherapie
 - CAR-T, BiTE's
 	- CC's en anti-IL6
@@ -82,7 +82,7 @@ ___
 - overig:
 	- alemtuzumab
 	- CHOP
-	- plasmaferese indien cytokinestrom (beperkte data)
+	- plasmaferese indien cytokinestorm (beperkte data)
 	- emapalumab (anti-IFN-gamma)
 - EBV-HLH en r/r lymfoom? Allo-SCT
 - bij mal-HLH: onderliggende maligniteit!

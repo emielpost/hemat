@@ -1,21 +1,23 @@
 PNH (Paroxysmale Nachtelijke Hemoglobinurie) is een aandoening met een variabele klinische presentatie. De vier pijlers onder de benadering van PNH zijn: intravasculaire hemolyse, trombocytose, beenmergfalen en andere beenmergziekten. Tot 50% van de gevallen kent een onderliggende oorzaak zoals AA of (hypoplastische) MDS, terwijl sommige patiënten later AA, MDS of leukemie kunnen ontwikkelen. Klachten variëren van vermoeidheid, dyspneu en buikpijn tot erectiele dysfunctie, icterus en donkere verkleuring van urine. Trombose vormt de belangrijkste doodsoorzaak, met bijkomende complicaties zoals nierfunctiestoornissen, pulmonale hypertensie en chronische vermoeidheid. Opvallend is de hoge zwangerschapsgerelateerde mortaliteit bij PNH.
 ___
 **bron**: [richtlijn PNH, 2016](https://publicatie.hematologienederland.nl/richtlijnen/paroxysmale-nachtelijke-hemoglobinurie/)
-## Etiologie
+## etiologie
 - PIG-A mutatie hematopoietische stamcel waardoor verstoring aanmaak GPI-anker. M.n. afwezigheid CD55 en CD59 leidt tot complement-gemedieerde hemolyse. 
 	- kloongrootte varieert tussen patiënten
-## Diagnostiek
-Indicaties PNH-diagnostiek, o.a.:
-- arteriële/veneuze trombose op ongebruikelijke plaats, i.c.m. onverklaarde cytopeniën, i.c.m. hemolyse of adequaat ingestelde antistolling
+## diagnostiek
+indicaties PNH-diagnostiek, o.a.:
+- arteriële/veneuze trombose op ongebruikelijke plaats
+	- i.c.m. onverklaarde cytopeniën
+	- i.c.m. hemolyse of adequaat ingestelde antistolling
 - onverklaarde persisterende trombocytopenie
 - ijzergebreksanemie met hemolyse
 - minimaal twee van: vermoeidheid, buikpijn, dysfagie, erectiestoornissen
 
-Overweeg PNH-diagnostiek als:
+overweeg PNH-diagnostiek als:
 - pre-eclampsie (case reports)
 - MDS of MPN
 - overige onverklaarde persisterende cytopenieën
-### Primaire diagnostiek
+### primaire diagnostiek
 - IFT op vers perifeer bloed, m.b.v. FLAER (reagens, bindt aan GPI-anker) en fluorochroom gelabelde MKA's tegen GPI-verankerde eiwitten): 
 	- afwezigheid (type III) GPI-verankerde eiwitten op mono's en granulo's
 	- verminderde (type II) aanwezigheid GPI-verankerde eiwitten op mono's en granulo's
@@ -24,7 +26,7 @@ Overweeg PNH-diagnostiek als:
 	- beenmerg minder geschikt (immature cellen lagere dichtheid GPI-gebonden eiwitten)
 - Percentages type II en type III cellen optellen
 	- als % mono's hoger is dan alleen die tellen
-### Aanvullend onderzoek
+### aanvullend onderzoek
 - A/LO: o.a. trombose, attendeer op https://www.aaenpnh.nl/
 - AO: o.a. virusserologie op parvo B19, overweeg hep B/C, CMV, toxo, HIV, ANA, EPO, vit B12, Mpro, TE en spectrum, TSH, zwangerschapstest en D-dimeer
 - beenmergaspiraal en biopt
@@ -32,9 +34,9 @@ Overweeg PNH-diagnostiek als:
 - overweeg:
 	- onderzoek naar Fanconi (<40j en beenmergfalen)
 	- onderzoek naar PHT
-## Behandeling
-### Inleiding
-O.b.v. 4 pijlers:
+## behandeling
+### inleiding
+o.b.v. 4 pijlers:
 - hemolyse:
 	- ijzersuppletie
 	- foliumzuur
@@ -51,7 +53,7 @@ O.b.v. 4 pijlers:
 	- trombolyse
 - onderliggende beenmergziekte
 	- conform vigerende richtlijn
-### Eculizumab
+### eculizumab
 - gehumaniseerd MKA, blokkeert activatie van C5 naar C5a en C5b.
 - indicaties:
 	- PNH met ernstige hemolyse, leidend tot transfusie-afhankelijkheid
@@ -69,7 +71,7 @@ O.b.v. 4 pijlers:
 		- bij koorts direct AB, meningococcen meedekken
 		- o.a. hoofdpijn (+ freq)e, overige infecties, anafylaxie, artralgie, diarree en braken
 	- dosering: zie pagina 27/107
-### Antistolling
+### antistolling
 - start met antistolling als:
 	- trombose (levenslang)
 	- PNH-kloon > 50%
@@ -82,18 +84,18 @@ O.b.v. 4 pijlers:
 - AA + kleine kloon: conform richtlijn AA
 - AA + grote kloon: conform richtlijn AA
 	- overweeg ATG + ciclosporine (nauwelijks evidence), m.n. bij patiënten met hypoplasie
-### Steroïden
+### steroïden
 - geen rol bij behandeling PNH
-### Erytropoietine
+### erytropoietine
 - onvoldoende bewijs
 	- overweeg bij nierfunctiestoornissen of onderliggende MDS
-### Allogene stamceltransplantatie
+### allogene stamceltransplantatie
 - bij andere hematologische ziekte: conform vigerende richtlijn
 	- overweeg dan eculizumab rondom transplantatie
 	- onvoldoende evidence voor aanbeveling conditionering
 - niet geadviseerd in afwezigheid van andere hematologische ziekte
 	- bij hoge uitzondering: levensbedreigende cytopenieën en andere opties niet effectief.
-### Transfusiebeleid
+### transfusiebeleid
 - parvoB19-veilig als seronegatief
 	- risico ernstige reticulocytopenie en verhoogd risico trombose tijdens infectie
 - AB0-identiek, D, CcEe en K (zo mogelijk ook JK(a)) compatibele producten
@@ -104,14 +106,14 @@ O.b.v. 4 pijlers:
 		- als tóch, dan in PAS of ander plasma-arm bewaarmedium
 - stollingsfactoren: stollingfactor concentraat i.p.v. plasma
 	- vermijd plasma!!
-## Beleid rondom zwangerschap(swens)
+## beleid rondom zwangerschap(swens)
 - nu mogelijk met eculizumab!
 	- start begin 2e trimester, bij (toename) hemolyse of andere PNH-gerelateerde complicaties. 
 		- tot minstens 3 maanden postpartum
 			- borstvoeding ok
 	- zo vroeg mogelijk meningokokkenvaccinatie (liefst ruim voor conceptie)
 - therapeutisch LMWH tijdens zwanger
-## Beleid rondom operaties
+## beleid rondom operaties
 risico op toename hemolyse en trombose. 
 - electief? 
 	- \< enkele dagen na meest recente eculizumab toediening
@@ -119,19 +121,19 @@ risico op toename hemolyse en trombose. 
 		- tot volgende gift; eventueel vervroegen
 	- VKA? bridging conform richtlijn
 - PM hou rekening met collateraal vorming wanneer abdominaal trombus in voorgeschiedenis
-## Follow-up
+## follow-up
 - 1x per 3 maanden
 	- gebruik eculizumab
 	- PNH kloon > 10%, hemolyse, beenmergfalen of doorgemaakte trombose
 - 1x per jaar
 	- PNH kloon < 10%, geen complicaties
-## Staken eculizumab
+## staken eculizumab
 - bij resistentie door polymorfisme complement C5
 - bij (spontane) afname PNH-kloon < 10% (minstens 2 x gemeten, 2 maanden tussentijd)
 - na allo SCT: PNH-kloon bij herhaling niet meer aantoonbaar
 - 3 maanden na ZWS en voordien reeds geen indicatie
-## Persisterende of tijdelijk toename van hemolyse tijdens eculizumab
-Normaal gezien snelle daling hemolyseparameters maar bijna nooit volledige normalisatie. 
+## persisterende of tijdelijk toename van hemolyse tijdens eculizumab
+normaal gezien snelle daling hemolyseparameters maar bijna nooit volledige normalisatie. 
 - eenmalig:
 	- identificeer uitlokkende factor (infectie, ingreep, trauma, ...)
 	- overweeg volgende dosering te vervroegen
@@ -140,7 +142,7 @@ Normaal gezien snelle daling hemolyseparameters maar bijna nooit volledige norma
 - continu persisterend:
 	- na 6-10 weken: DNA onderzoek naar C5 polymorfisme
 	- initieel respons? sluit antilichamen uit
-## Datum laatste update
+## datum laatste update
 24-02-2024
 ___
 **bron**: Wenkebach cursus, 2023
@@ -150,33 +152,33 @@ ___
 ## beenmerg
 - hyperplasie erytropoiese, echter vaker (langdurig) hypo-/aplasie
 - ijzerkleuring negatief; vaak wel sideroblasten
-## Datum laatste update
+## datum laatste update
 21-02-2024
 ___
 **bron**: JNVvH 5 april 2023
 ## Coombs negatieve hemolyse x3
-- Corposculair
+- corposculair
 	- PNH
-- Niet-corposculair
+- niet-corposculair
 	- o.a. [[TMA]], infecties, [[TMA|TTP]]/HUS
 - (pre-)maligne beenmergaandoeningen
 	- AA
 	- hypo MDS
 	- PMF
 	- AML
-## Klinisch beeld
+## klinisch beeld
 - vaatspasmen door chronische hemolyse (NO weggevangen): oesofagusspamsen, erectiele dysfunctie, PHT, buikpijn)
 	- ook veel vermoeidheid en hoofdpijn
 - nierinsufficiëntie door renale hemosiderose/vrij heem
 - cytopenieën: BMF'en
 - 50% veneuze en/of arteriële trombose (onbehandeld)
-## Behandelindicaties
-- o.a. 2x kloon >50%
+## behandelindicaties
+- o.a. 2x kloon > 50%
 	- eculizumab, 2-wekelijkse injecties
-		- menogococcen ACWY en -B vaccinaties!
+		- meningococcen ACWY en -B vaccinaties!
 		- bedenk: niet meer stoppen, flare-up goed mogelijk met toename hemolyse en risico trombose
 	- antistolling naar therapeutisch
-## Achtergrond
+## achtergrond
 - somatische PIGA mutatie op X-chromosoom (over hele PIGA-gen)
 - pathophysio theorie x2:
 	- auto-immuun (i.c.m. AA) waardoor overlevingsvoordeel PNH-kloon zonder GPI-eiwit
@@ -184,7 +186,7 @@ ___
 - hemolyse bij PNH
 	- door missen GPI-eiwit nu gevoeliger voor complement (i.t.t. leuko's en trombo's)
 	- m.n. via alternatieve route activatie C3 -> C3b -> C5 -> C5b -> MAC: i.v. hemolyse
-## Diagnose
+## diagnose
 - erytrocyten:
 	- type III: helemaal geen CD59
 	- type II: beetje CD 59
@@ -193,26 +195,26 @@ ___
 - zeker ook granulo's en/of mono's meten! altijd uitgaan van grootste kloon.
 	- ery's worden weggevangen: fout-negativiteit; worden wel meegenomen ter beoordeling activiteit ziekte
 - bedenk: kloongrootte kan toenemen, na (behandeling voor) AA b.v., stabiel blijven of zeer zelden spontane regressie
-## Trombose bij PNH (arterieel en veneus)
+## trombose bij PNH (arterieel en veneus)
 - voornaamste doodsoorzaak (onbehandeld gemiddeld 10j)
 - cumulatieve incidientie >50% na 20j bij kloongrootte >50% (sowieso sterk geassocieerd met kloongrootte)
 - pathofysiologie complex: multifactorieel
-## Behandeling met eculizumab
+## behandeling met eculizumab
 - 1x/week 600 mg
 	- meningokokken ACWY (later tevens B)
 		- op dag van start behandeling, enkel in ZWS vóór start behandeling (kan hemolyse uitlokken)
 	- 2 weken ciprofloxacine, nadien on demand
-- Nadien 900 mg i.v. a 2 weken 
+- nadien 900 mg i.v. a 2 weken 
 	- o.g.v. spiegels
 	- studie in de steigers: a 4 weken
-- Indicaties:
+- indicaties:
 	- ernstige hemolyse met transfusie-behoefte
 	- trombose (zelfde dag nog)
 	- nierfalen
-	- Hemolyse-geasssocieerde complicaties
-	- Zwangerschap
+	- hemolyse-geasssocieerde complicaties
+	- zwangerschap
 	- PNH met hemolyse en ernstige hemolyse-geassocieerde klachten
-- Doel: transfusie vrij, geen trombose, geen klachten
+- doel: transfusie vrij, geen trombose, geen klachten
 	- 25% van patiënten heeft  nog transfusie nodig
 		- oorzaken beperkt effect op Hb:
 			- doorbraakhemolyse
@@ -225,10 +227,10 @@ ___
 				- geeft GEEN verhoogd tromboserisico
 				- anemie persisteert dan wel
 					- (positieve DAT)
-## Nieuwe behandelingen
+## nieuwe behandelingen
 - eerder aangrijpen in cascade:
 	- C3 remmers
 	- factor B/D remmers
 	- dan ook vaccinatie vs. pneumococcen/haemophilus
-## Datum laatste update
+## datum laatste update
 24-02-2024
