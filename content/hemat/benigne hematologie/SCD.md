@@ -16,7 +16,7 @@ ___
 	- i.g.v. chelatietherapie: 
 		- o.a. zink, elektrolieten, hormonen, audiogram, MRI T2, DEXA-scan
 ## acute vaso-occlusieve crise
-- pijnstilling conform geïndividualiseerd behandelplan (zie ook lokale protocollen AMC: [[Pijn protocol, sikkelcel crise volwassenen_SEH.pdf]], [[Pijn protocol, sikkelcel crise_afdelingsprotocol.pdf]])
+- pijnstilling conform geïndividualiseerd behandelplan (zie ook lokale protocollen AMC: [[Pijn protocol, sikkelcel crise volwassenen_SEH.pdf]] en [[Pijn protocol, sikkelcel crise_afdelingsprotocol.pdf]])
 	- PCM, NSAID's en morfine 0.1 mg/kg a 20-30 minuten tot VAS < 7 met nadien PCA (tenzij verstandelijke beperking, dan continue)
 	- overweeg clonidine en ketamine
 - hyperhydratie NaCl 0.65% 3L/24 uur gedurende 72 uur, tenzij decompensatio cordis in voorgeschiedenis of chest (1.5L/24 uur)
@@ -44,9 +44,11 @@ ___
 	- toch dwingende transfusie indicatie: antilichaam compatibele transfusie
 - met hyperhemolyse (vorm van DHTR)
 	- kliniek: ziek, pijn, koorts (lijkt op vaso-occlusieve crise of zelfs chest), donkere urine, verergering anemie en verhoogd LDH
+		-  door niet-compatibele transfusie, tot 25 dagen nadien
 	- vermijd transfusies! Herhaal lab eerste dagen 2x
 		- foliumzuur 5mg 1dd
 		- indien toch nodig (Hb < 1.9 of ischemie/lactaatacidose): 1000 mg rituximab i.c.m. 10 mg prednison
+		- eculizumab zo nodig
 	- eerste lijn: 
 		- IVIG 1 g/kg gedurende 2 dagen en prednisolon 1 mg/kg + EPO (300 mcg 1x/w, suprafysiologisch nodig vanwege ook effect op voorlopercellen)
 	- tweede lijn: 
@@ -76,7 +78,7 @@ ___
 	- normothermie en goede hydratie (3L/24 uur)
 	- terughoudend met tourniquet
 - post-op: 
-	- goede hydratie (3L/24 uy=ur)
+	- goede hydratie (3L/24 uur)
 	- adequate pijnstilling
 	- tromboseprofylaxe
 ## infectieprofylaxe

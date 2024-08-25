@@ -1,7 +1,11 @@
+---
+date created: zondag 5 mei 2024 09:05
+date modified: zondag 25 augustus 2024 20:08
+---
 Thalassemie is een erfelijke aandoening waarbij de productie hemoglobine verstoord is, resulterend in chronische bloedarmoede. Deze autosomaal recessieve ziekte komt voornamelijk voor bij mensen afkomstig uit het Middellandse Zeegebied, het Midden-Oosten, delen van Azië (India, Indonesië) en Afrika. Het is een van de meest voorkomende aangeboren ziekten waarbij de dragers geen symptomen vertonen en een normale levensverwachting hebben. Majeure thalassemie, waarbij geen functionele hemoglobine meer wordt aangemaakt, leidt echter tot ernstige complicaties, zoals skeletafwijkingen en ijzerstapeling.
 ___
 **bron**: [richtlijn thalassemie, 2023](https://publicatie.hematologienederland.nl/richtlijnen/thalassemie/)
-## Diagnostiek
+## diagnostiek
 - indicatie diagnostiek?
 	- symptomatologie
 	- familie anamnese
@@ -17,15 +21,15 @@ ___
 	- beta-thalassemie: MCV 50-70 (max 80), hypochroom (laag MCH), reticulocytose, schietschijfcellen, normaal ijzer
 	- alfa-thalassemie: MCV 50-70 (max 80), hypochroom (laag MCH), reticulocytose
 ![[Pasted image 20240429152638.png]]
-## Monitoren orgaanschade
+## monitoren orgaanschade
 - vooral ijzerstapeling en osteoporose, zowel bij transfusieafhankelijke als -onafhankelijke thalassemie (TDT en NTDT)
 	- enkel ferritine en TSAT is onvoldoende
 - eerste consult
 	- o.a. leverlab, ijzerstatus, hormoononderzoek bij verdenking stapeling, pB19, HBV/HCV, HIV, MRI lever etc.
 - follow-up monitoring
 	- o.a. ECG, echo cor, botdenistometrie, endocriene parameters + extra monitoring bij chelatietherapie
-## Bloedtransfusie
-### Indicaties
+## bloedtransfusie
+### indicaties
 - Hb < 3.1
 - Hb < 4.3
 	- indien:
@@ -35,14 +39,14 @@ ___
 		- fracturen
 		- klinisch significante extramedullaire hematopoëse
 - incidenteel indien NTDT en verergering anemie bij infectie of trauma, chirurgie of zwangerschap
-### Streefwaarden
+### streefwaarden
 - 5.5 mmol/L
 - 6.5 mmol/L bij cardiovasculaire RF'en
 - typeer z.s.m., transfundeer Rh- en K-compatibel
 ### pB19 veilig?
 - pB19 veilig indien seronegatief
 	- jaarlijks testen tot antistoffen
-## Ijzerstapeling en ontijzeringstherapie
+## ijzerstapeling en ontijzeringstherapie
 - verricht MRI T2 en bepaal LIC en MIC
 	- TDT
 		- vanaf 20-25 eenheden (gemiddeld 200mg ijzer per transfusie) of LIC > 3
@@ -53,7 +57,7 @@ ___
 		- LIC > 5, ferritine > 800 of TSAT > 45%
 			- deferasirox
 			- bij acuut hartfalen door ijzerstapeling continue i.v. deferoxamine i.c.m. deferipron
-## Endocriene complicaties en osteoporose
+## endocriene complicaties en osteoporose
 - jaarlijks endocriene screening conform richtlijn, uitgangsvraag 5
 - start z.s.m. met chronische transfusies en ijzerchelatie t.v.v. beenmerghyperplasie en ijzertoxiciteit
 	- let op adequate calciuminname en vitamine D-spiegels (circa 50 nmol/l)
@@ -66,23 +70,23 @@ ___
 			- fragility fracturen en/of afname botdichtheid ondanks adequate vitamine D-spiegel
 			- hormoonbehandeling bij hypogonadisme
 		- na 12 maanden DEXA-scan herhalen
-## Tromboseprofylaxe?
+## tromboseprofylaxe?
 - geen indicatie tenzij NTDT (??), na splenectomie of niet uitgelokte trombose
-## Pulmonale hypertensie
+## pulmonale hypertensie
 - zowel intermedia als major screenen op PHT met TTE
 	- consult longarts indien verhoogde rechtsdrukken
 - indien CTEPH antistolling, bij beta-thalassemie intensificatie transfusies
 	- primaire PH (precapillair)? specifieke behandelingen
 	- post-capillaire PH? verbeteren LVF
 ![[Pasted image 20240430101115.png]]
-## Ulcus cruris
+## ulcus cruris
 - verwijs naar dermatoloog of plastische chirurg
 - beste behandeling: wondverzorging + transfusie
 	- overig: 
 		- hydrea
 		- hyperbare O2
 		- huidtransplantatie
-## Fertiliteit, zwangerschap en counseling
+## fertiliteit, zwangerschap en counseling
 - benoem risico ernstig aangedaan kind (als partner drager of aangedaan)
 - contraindicatie tijdens zwangerschap:
 	- ijzerchelatoren (enkel deferoxamine in specifieke gevallen), bisfosfanaten, interferon, ribavarine en hydroxycarbamide
@@ -91,13 +95,13 @@ ___
 	- mate van ijzerstapeling, cor functie, endocriene assen, botdensiteit, leverfunctie, vitale status moeder, bloedgroep antigeenstatus en allo-antistoffen
 - tijdens zwangerschap:
 	- NTDT en TDT in hemoglobinopathie kenniscentrum in nauw contact met gynaecoloog: ieder trimester cardiale functie, schildklier en leverfunctie
-## Splenectomie
+## splenectomie
 - indicaties?
 	- toename transfusiebehoefte en inadequate ontijzeringsmogelijkheden
 	- hypersplenisme met ernstige cytopenieën
 	- symptomatische splenomegalie
 - perioperatieve tromboseprofylaxe, minimaal tot 4w postoperatief tot volledige mobilisatie
-## Hydrea
+## hydrea
 - NTDT met symptomatische anemie
 - overweeg ook bij:
 	- extramedullaire pseudotumoren
@@ -108,7 +112,7 @@ ___
 - elke TDT-patiënt op kinderleeftijd (enkel LUMC)
 - voor volwassen TDT beta-thalassemie geen allo SCT programma beschikbaar
 	- bij voorkeur HLA-identiek maar MUD en haplo kan ook
-## Nieuwe behandelmodaliteiten
+## nieuwe behandelmodaliteiten
 - luspatercept
 	- indicaties: 
 		- >4E ery's/8w
@@ -119,11 +123,11 @@ ___
 			- geen effect?  dan gentherapie
 		- NDTD en ernstige extramedullaire hematopoëse? 
 			- luspatercept
-## Datum laatste update
+## datum laatste update
 07-02-2024
 ___
 **bron**: diagnostiek van thalassemieën, NTvG 2014 ([[NTvG_diagnostiek_thalassemieen.pdf]])
-## Achtergrond
+## achtergrond
 - hemoglobinopathieën x2:
 	- structurele afwijkingen ketenproductie, i.e. sikkelcelziekte
 	- kwantitatieve afwijkingen ketenproductie: thalassemieën
@@ -134,12 +138,12 @@ ___
 - Thalassemie: autosomaal recessieve overerving
 	- alfa thalassemie iets ingewikkelder: 4 alfa_globine genen die als koppel overerven
 		- kans op alfa thalassemie kind ~ aantal en combinatie van alfa-genen dat gemuteerd is
-## Herkomst en incidentie
+## herkomst en incidentie
 - beta-thalassemie: vooral rond Middelandse Zee, maar ook Azië en Afrika
 - alfa-thalassemie: vooral Z-O Azië, India, China en Filippijnen
 - autochtone NL'ers: circa 1:1000 t.g.v. spontane mutaties en verre voorouders
-## Kliniek en behandelmogelijkheden
-### Alfa-thalassemie
+## kliniek en behandelmogelijkheden
+### alfa-thalassemie
 - mild: 
 	- 1 alfa gen gemuteerd: -a/aa
 		- heterozygoot a+
@@ -158,7 +162,7 @@ ___
 	- 4 gemuteerd: --/--
 		- Hb-Barts-hydrops-foetalis-syndroom
 		- niet levensvatbaar: overlijdt perinataal
-### Beta-thalassemie
+### beta-thalassemie
 - dragerschap/heterozygoot
 	- meestal asymptomatisch, soms intermedia met transfusiebehoefte
 - homozoygoot/major vorm
@@ -168,7 +172,7 @@ ___
 	- + structurele hemoglobinopathie
 		- HbSbeta: sikkelcelanemie
 		- E-beta-thalassemie (+HbE): beta thalassemie intermedia
-## Aanpak laboratoriumdiagnostiek
+## aanpak laboratoriumdiagnostiek
 ### rood bloedbeeld en ferritine
 - onverklaarde microcytaire hypochrome anemie
 	- MCV < 90 fL als heterozygoot, ferritine normaal
@@ -192,7 +196,7 @@ ___
 		- negatief? dan zelfdzamere varianten, al dan niet hele globinegen sequencen.
 ### hielprik
 - enkel HbH-ziekte en homozygote beta-thalassemie
-## Interpretatie laboratoriumonderzoek
+## interpretatie laboratoriumonderzoek
 ### genotype en kliniek
 - kliniek variabel
 	- beta-thalassemie major + alfa-thalassemie: milder fenotype 
@@ -205,7 +209,7 @@ ___
 - bedenk: FZ-suppletie, ook als voorraden normaal
 #### MCV
 - check MCV in het verleden
-## Datum laatste update
+## datum laatste update
 07-02-2024
 ___
 **bron**: Wenkebach cursus, 2023
@@ -220,5 +224,5 @@ ___
 - erytroïde hyperplasie, basofiele punctering erytroblasten, toename macrofagen incl. schuimcellen
 - ijzerkleuring: hoog aantal sideroblasten
 	- DD ernstig ijzergebrek moeilijk (dan geen basofiele stippeling)
-## Datum laatste update
+## datum laatste update
 21-02-2024
